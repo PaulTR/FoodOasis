@@ -2,6 +2,9 @@ import React from "react";
 import GoogleMapReact from "google-map-react";
 import "./style/foodOasisMap.css";
 
+const _onClick = ({ lat, lng }) =>
+  console.log("latitude of click: ", lat, "longitude of click: ", lng);
+
 export const FoodOasisMap = ({ location, zoomLevel, googleMapsAPIKey }) => (
   <div className="map">
     <h2 className="map-h2">Click on the map to see FoodOasis score!</h2>
@@ -11,13 +14,8 @@ export const FoodOasisMap = ({ location, zoomLevel, googleMapsAPIKey }) => (
         bootstrapURLKeys={{ key: googleMapsAPIKey }}
         defaultCenter={location}
         defaultZoom={zoomLevel}
-      >
-        {/* <LocationPin
-          lat={location.lat}
-          lng={location.lng}
-          text={location.address}
-        /> */}
-      </GoogleMapReact>
+        onClick={_onClick}
+      />
     </div>
   </div>
 );
