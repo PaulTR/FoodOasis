@@ -1,0 +1,386 @@
+{
+  "Adams County": {
+    "population": 498187,
+    "total_income": 19119527000,
+    "medium_household_income": 65442,
+    "per_capita_income": 38378
+  },
+  "Alamosa County": {
+    "population": 16654,
+    "total_income": 585294000,
+    "medium_household_income": 37057,
+    "per_capita_income": 35144
+  },
+  "Arapahoe County": {
+    "population": 637068,
+    "total_income": 34689868000,
+    "medium_household_income": 70866,
+    "per_capita_income": 54452
+  },
+  "Archuleta County": {
+    "population": 12854,
+    "total_income": 516046000,
+    "medium_household_income": 51998,
+    "per_capita_income": 40147
+  },
+  "Baca County": {
+    "population": 3568,
+    "total_income": 135352000,
+    "medium_household_income": 34070,
+    "per_capita_income": 37935
+  },
+  "Bent County": {
+    "population": 5861,
+    "total_income": 178236000,
+    "medium_household_income": 33951,
+    "per_capita_income": 30411
+  },
+  "Boulder County": {
+    "population": 322226,
+    "total_income": 20528122000,
+    "medium_household_income": 74772,
+    "per_capita_income": 63707
+  },
+  "Broomfield County": {
+    "population": 66529,
+    "total_income": 4865203000,
+    "medium_household_income": 86870,
+    "per_capita_income": 73129
+  },
+  "Chaffee County": {
+    "population": 19058,
+    "total_income": 759454000,
+    "medium_household_income": 49877,
+    "per_capita_income": 39850
+  },
+  "Cheyenne County": {
+    "population": 1848,
+    "total_income": 93550000,
+    "medium_household_income": 50558,
+    "per_capita_income": 50622
+  },
+  "Clear Creek County": {
+    "population": 9436,
+    "total_income": 513070000,
+    "medium_household_income": 68699,
+    "per_capita_income": 54374
+  },
+  "Conejos County": {
+    "population": 8129,
+    "total_income": 288002000,
+    "medium_household_income": 34390,
+    "per_capita_income": 35429
+  },
+  "Costilla County": {
+    "population": 3721,
+    "total_income": 120235000,
+    "medium_household_income": 27211,
+    "per_capita_income": 32313
+  },
+  "Crowley County": {
+    "population": 5694,
+    "total_income": 145321000,
+    "medium_household_income": 35873,
+    "per_capita_income": 25522
+  },
+  "Custer County": {
+    "population": 4602,
+    "total_income": 195437000,
+    "medium_household_income": 52021,
+    "per_capita_income": 42468
+  },
+  "Delta County": {
+    "population": 30442,
+    "total_income": 983836000,
+    "medium_household_income": 41798,
+    "per_capita_income": 32318
+  },
+  "Denver County": {
+    "population": 693060,
+    "total_income": 46612315000,
+    "medium_household_income": 61038,
+    "per_capita_income": 67256
+  },
+  "Dolores County": {
+    "population": 2056,
+    "total_income": 62899000,
+    "medium_household_income": 46791,
+    "per_capita_income": 30593
+  },
+  "Douglas County": {
+    "population": 328632,
+    "total_income": 22063919000,
+    "medium_household_income": 112399,
+    "per_capita_income": 67139
+  },
+  "Eagle County": {
+    "population": 53989,
+    "total_income": 3486688000,
+    "medium_household_income": 79556,
+    "per_capita_income": 64581
+  },
+  "Elbert County": {
+    "population": 25231,
+    "total_income": 1283373000,
+    "medium_household_income": 86693,
+    "per_capita_income": 50865
+  },
+  "El Paso County": {
+    "population": 688284,
+    "total_income": 30565961000,
+    "medium_household_income": 63610,
+    "per_capita_income": 44409
+  },
+  "Fremont County": {
+    "population": 47446,
+    "total_income": 1519031000,
+    "medium_household_income": 46372,
+    "per_capita_income": 32016
+  },
+  "Garfield County": {
+    "population": 58887,
+    "total_income": 3252159000,
+    "medium_household_income": 69161,
+    "per_capita_income": 55227
+  },
+  "Gilpin County": {
+    "population": 5931,
+    "total_income": 246143000,
+    "medium_household_income": 65472,
+    "per_capita_income": 41501
+  },
+  "Grand County": {
+    "population": 15008,
+    "total_income": 625317000,
+    "medium_household_income": 63875,
+    "per_capita_income": 41666
+  },
+  "Gunnison County": {
+    "population": 16408,
+    "total_income": 713313000,
+    "medium_household_income": 53753,
+    "per_capita_income": 43473
+  },
+  "Hinsdale County": {
+    "population": 788,
+    "total_income": 35192000,
+    "medium_household_income": 51717,
+    "per_capita_income": 44660
+  },
+  "Huerfano County": {
+    "population": 6677,
+    "total_income": 250398000,
+    "medium_household_income": 34626,
+    "per_capita_income": 37502
+  },
+  "Jackson County": {
+    "population": 1357,
+    "total_income": 61958000,
+    "medium_household_income": 46671,
+    "per_capita_income": 45658
+  },
+  "Jefferson County": {
+    "population": 571837,
+    "total_income": 32230590000,
+    "medium_household_income": 74342,
+    "per_capita_income": 56363
+  },
+  "Kiowa County": {
+    "population": 1373,
+    "total_income": 70289000,
+    "medium_household_income": 43951,
+    "per_capita_income": 51194
+  },
+  "Kit Carson County": {
+    "population": 8195,
+    "total_income": 272713000,
+    "medium_household_income": 48272,
+    "per_capita_income": 33278
+  },
+  "Lake County": {
+    "population": 7618,
+    "total_income": 255777000,
+    "medium_household_income": 49064,
+    "per_capita_income": 33575
+  },
+  "La Plata County": {
+    "population": 55623,
+    "total_income": 2843289000,
+    "medium_household_income": 58499,
+    "per_capita_income": 51117
+  },
+  "Larimer County": {
+    "population": 339993,
+    "total_income": 16019414000,
+    "medium_household_income": 66561,
+    "per_capita_income": 47117
+  },
+  "Las Animas County": {
+    "population": 14103,
+    "total_income": 522268000,
+    "medium_household_income": 38224,
+    "per_capita_income": 37032
+  },
+  "Lincoln County": {
+    "population": 5643,
+    "total_income": 176898000,
+    "medium_household_income": 42969,
+    "per_capita_income": 31348
+  },
+  "Logan County": {
+    "population": 21919,
+    "total_income": 1024269000,
+    "medium_household_income": 49407,
+    "per_capita_income": 46730
+  },
+  "Mesa County": {
+    "population": 150083,
+    "total_income": 5870880000,
+    "medium_household_income": 49825,
+    "per_capita_income": 39118
+  },
+  "Mineral County": {
+    "population": 732,
+    "total_income": 45725000,
+    "medium_household_income": 52641,
+    "per_capita_income": 62466
+  },
+  "Moffat County": {
+    "population": 13109,
+    "total_income": 514447000,
+    "medium_household_income": 54151,
+    "per_capita_income": 39244
+  },
+  "Montezuma County": {
+    "population": 26999,
+    "total_income": 1011949000,
+    "medium_household_income": 40679,
+    "per_capita_income": 37481
+  },
+  "Montrose County": {
+    "population": 41471,
+    "total_income": 1481110000,
+    "medium_household_income": 43285,
+    "per_capita_income": 35714
+  },
+  "Morgan County": {
+    "population": 28274,
+    "total_income": 1138884000,
+    "medium_household_income": 49129,
+    "per_capita_income": 40280
+  },
+  "Otero County": {
+    "population": 18295,
+    "total_income": 626984000,
+    "medium_household_income": 36773,
+    "per_capita_income": 34271
+  },
+  "Ouray County": {
+    "population": 4857,
+    "total_income": 247705000,
+    "medium_household_income": 66813,
+    "per_capita_income": 51000
+  },
+  "Park County": {
+    "population": 17166,
+    "total_income": 692527000,
+    "medium_household_income": 68535,
+    "per_capita_income": 40343
+  },
+  "Phillips County": {
+    "population": 4288,
+    "total_income": 183364000,
+    "medium_household_income": 49046,
+    "per_capita_income": 42762
+  },
+  "Pitkin County": {
+    "population": 17752,
+    "total_income": 2285355000,
+    "medium_household_income": 74576,
+    "per_capita_income": 128738
+  },
+  "Prowers County": {
+    "population": 11922,
+    "total_income": 462716000,
+    "medium_household_income": 40164,
+    "per_capita_income": 38812
+  },
+  "Pueblo County": {
+    "population": 165123,
+    "total_income": 5968790000,
+    "medium_household_income": 44644,
+    "per_capita_income": 36148
+  },
+  "Rio Blanco County": {
+    "population": 6545,
+    "total_income": 258413000,
+    "medium_household_income": 58980,
+    "per_capita_income": 39483
+  },
+  "Rio Grande County": {
+    "population": 11479,
+    "total_income": 479897000,
+    "medium_household_income": 41128,
+    "per_capita_income": 41807
+  },
+  "Routt County": {
+    "population": 24648,
+    "total_income": 1754119000,
+    "medium_household_income": 71322,
+    "per_capita_income": 71167
+  },
+  "Saguache County": {
+    "population": 6389,
+    "total_income": 223245000,
+    "medium_household_income": 33973,
+    "per_capita_income": 34942
+  },
+  "San Juan County": {
+    "population": 694,
+    "total_income": 34106000,
+    "medium_household_income": 44652,
+    "per_capita_income": 49144
+  },
+  "San Miguel County": {
+    "population": 8017,
+    "total_income": 608301000,
+    "medium_household_income": 67251,
+    "per_capita_income": 75876
+  },
+  "Sedgwick County": {
+    "population": 2407,
+    "total_income": 113770000,
+    "medium_household_income": 42518,
+    "per_capita_income": 47266
+  },
+  "Summit County": {
+    "population": 30374,
+    "total_income": 1773425000,
+    "medium_household_income": 70265,
+    "per_capita_income": 58386
+  },
+  "Teller County": {
+    "population": 24043,
+    "total_income": 1102342000,
+    "medium_household_income": 63966,
+    "per_capita_income": 45849
+  },
+  "Washington County": {
+    "population": 4908,
+    "total_income": 186986000,
+    "medium_household_income": 46304,
+    "per_capita_income": 38098
+  },
+  "Weld County": {
+    "population": 294932,
+    "total_income": 12593779000,
+    "medium_household_income": 63609,
+    "per_capita_income": 42701
+  },
+  "Yuma County": {
+    "population": 10103,
+    "total_income": 533792000,
+    "medium_household_income": 48963,
+    "per_capita_income": 52835
+  }
+}

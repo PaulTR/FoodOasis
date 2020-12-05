@@ -1,0 +1,663 @@
+﻿zip,county,latitude,longitude,est_population
+80001,Jefferson County,39.82,-105.1,819
+80002,Jefferson County,39.79,-105.11,17140
+80003,Jefferson County,39.83,-105.06,33610
+80004,Jefferson County,39.82,-105.1,33620
+80005,Jefferson County,39.85,-105.13,27280
+80006,Jefferson County,39.82,-105.1,741
+80007,Jefferson County,39.86,-105.19,10950
+80010,Arapahoe County,39.74,-104.86,40540
+80011,Arapahoe County,39.74,-104.78,51740
+80012,Arapahoe County,39.69,-104.81,47070
+80013,Arapahoe County,39.66,-104.77,70290
+80014,Arapahoe County,39.66,-104.84,35970
+80015,Arapahoe County,39.63,-104.78,64580
+80016,Arapahoe County,39.6,-104.71,51420
+80017,Arapahoe County,39.7,-104.79,35000
+80018,Arapahoe County,39.69,-104.69,12330
+80019,Adams County,39.79,-104.7,2400
+80020,Broomfield County,39.94,-105.06,47620
+80021,Jefferson County,39.89,-105.11,30350
+80022,Adams County,39.88,-104.8,49830
+80023,Broomfield County,39.96,-105.02,19830
+80024,Adams County,39.84,-104.92,425
+80025,Boulder County,39.94,-105.28,210
+80026,Boulder County,39.99,-105.09,28280
+80027,Boulder County,39.96,-105.14,32270
+80028,Boulder County,39.95,-105.14,0
+80030,Adams County,39.83,-105.04,14250
+80031,Adams County,39.88,-105.05,34190
+80033,Jefferson County,39.77,-105.09,22600
+80034,Jefferson County,39.77,-105.09,543
+80035,Jefferson County,39.88,-105.05,603
+80036,Jefferson County,39.88,-105.05,346
+80037,Adams County,39.86,-104.86,638
+80038,Broomfield County,39.94,-105.06,636
+80040,Arapahoe County,39.69,-104.81,517
+80041,Arapahoe County,39.69,-104.81,569
+80042,Arapahoe County,39.69,-104.81,479
+80044,Arapahoe County,39.69,-104.81,692
+80045,Adams County,39.75,-104.84,520
+80046,Arapahoe County,39.69,-104.81,706
+80047,Arapahoe County,39.69,-104.81,1458
+80101,Elbert County,39.47,-103.95,290
+80102,Adams County,39.75,-104.42,5480
+80103,Arapahoe County,39.71,-104.22,2350
+80104,Douglas County,39.37,-104.85,30890
+80105,Arapahoe County,39.61,-104.04,1090
+80106,El Paso County,39.22,-104.53,4120
+80107,Elbert County,39.36,-104.6,12330
+80108,Douglas County,39.45,-104.85,26400
+80109,Douglas County,39.36,-104.9,22390
+80110,Arapahoe County,39.64,-104.99,19900
+80111,Arapahoe County,39.61,-104.88,30680
+80112,Arapahoe County,39.58,-104.86,30580
+80113,Arapahoe County,39.64,-104.96,18640
+80116,Douglas County,39.38,-104.75,4230
+80117,Elbert County,39.34,-104.46,2470
+80118,Douglas County,39.18,-104.89,5720
+80120,Arapahoe County,39.59,-105.01,27340
+80121,Arapahoe County,39.61,-104.95,17570
+80122,Arapahoe County,39.58,-104.95,29930
+80123,Jefferson County,39.62,-105.07,42920
+80124,Douglas County,39.53,-104.89,20200
+80125,Douglas County,39.49,-105.05,10390
+80126,Douglas County,39.54,-104.96,43160
+80127,Jefferson County,39.57,-105.14,43810
+80128,Jefferson County,39.56,-105.08,35760
+80129,Douglas County,39.54,-105,28330
+80130,Douglas County,39.54,-104.93,27380
+80131,Douglas County,39.48,-105.01,227
+80132,El Paso County,39.1,-104.85,24040
+80133,El Paso County,39.1,-104.98,2480
+80134,Douglas County,39.5,-104.76,63980
+80135,Douglas County,39.43,-104.97,3710
+80136,Adams County,39.73,-104.3,5220
+80137,Arapahoe County,39.75,-104.6,1120
+80138,Douglas County,39.52,-104.67,30600
+80150,Arapahoe County,39.64,-104.99,468
+80151,Arapahoe County,39.64,-104.99,395
+80155,Arapahoe County,39.64,-104.99,655
+80160,Arapahoe County,39.59,-105.01,457
+80161,Arapahoe County,39.59,-105.01,403
+80162,Arapahoe County,39.59,-105.01,502
+80163,Arapahoe County,39.59,-105.01,549
+80165,Arapahoe County,39.59,-105.01,0
+80166,Arapahoe County,39.59,-105.01,0
+80201,Denver County,39.76,-104.87,1331
+80202,Denver County,39.75,-105,10700
+80203,Denver County,39.73,-104.98,15930
+80204,Denver County,39.73,-105.02,26530
+80205,Denver County,39.76,-104.96,27750
+80206,Denver County,39.73,-104.95,21450
+80207,Denver County,39.76,-104.92,20600
+80208,Denver County,39.76,-104.87,36
+80209,Denver County,39.71,-104.97,21170
+80210,Denver County,39.68,-104.96,29450
+80211,Denver County,39.77,-105.02,30010
+80212,Denver County,39.77,-105.05,16670
+80214,Jefferson County,39.74,-105.07,22580
+80215,Jefferson County,39.74,-105.12,17330
+80216,Denver County,39.79,-104.96,13100
+80217,Denver County,39.76,-104.87,453
+80218,Denver County,39.73,-104.97,15550
+80219,Denver County,39.7,-105.04,64150
+80220,Denver County,39.73,-104.92,33250
+80221,Adams County,39.82,-105.01,39630
+80222,Denver County,39.67,-104.93,18420
+80223,Denver County,39.7,-105,18370
+80224,Denver County,39.69,-104.91,16470
+80225,Denver County,39.76,-104.87,0
+80226,Jefferson County,39.71,-105.09,29970
+80227,Jefferson County,39.67,-105.09,32620
+80228,Jefferson County,39.69,-105.17,31230
+80229,Adams County,39.86,-104.96,51080
+80230,Denver County,39.72,-104.89,7790
+80231,Denver County,39.67,-104.89,31490
+80232,Jefferson County,39.69,-105.09,20540
+80233,Adams County,39.9,-104.95,44450
+80234,Adams County,39.91,-105,25850
+80235,Jefferson County,39.65,-105.09,6760
+80236,Denver County,39.65,-105.04,14980
+80237,Denver County,39.64,-104.9,19230
+80238,Denver County,39.76,-104.87,19370
+80239,Denver County,39.79,-104.84,44530
+80241,Adams County,39.93,-104.95,30690
+80243,Denver County,39.76,-104.87,0
+80244,Denver County,39.76,-104.87,0
+80246,Denver County,39.71,-104.93,11510
+80247,Arapahoe County,39.69,-104.88,23950
+80248,Denver County,39.76,-104.87,53
+80249,Denver County,39.85,-104.7,30040
+80250,Denver County,39.76,-104.87,517
+80251,Denver County,39.76,-104.87,0
+80252,Denver County,39.76,-104.87,0
+80256,Denver County,39.76,-104.87,0
+80257,Denver County,39.76,-104.87,0
+80259,Denver County,39.76,-104.87,0
+80260,Adams County,39.87,-105.01,33800
+80261,Denver County,39.76,-104.87,16
+80262,Denver County,39.76,-104.87,0
+80263,Denver County,39.76,-104.87,0
+80264,Denver County,39.74,-104.99,0
+80265,Denver County,39.76,-104.87,19
+80266,Denver County,39.76,-104.87,0
+80271,Denver County,39.76,-104.87,0
+80273,Denver County,39.76,-104.87,0
+80274,Denver County,39.76,-104.87,45
+80279,Denver County,39.76,-104.87,85
+80280,Denver County,39.76,-104.87,0
+80281,Denver County,39.76,-104.87,0
+80290,Denver County,39.74,-104.99,0
+80291,Denver County,39.76,-104.87,0
+80293,Denver County,39.75,-104.99,0
+80294,Denver County,39.75,-104.99,0
+80295,Denver County,39.76,-104.87,0
+80299,Denver County,39.76,-104.87,0
+80301,Boulder County,40.02,-105.25,23080
+80302,Boulder County,40.04,-105.37,15670
+80303,Boulder County,39.97,-105.21,18470
+80304,Boulder County,40.05,-105.29,25190
+80305,Boulder County,39.98,-105.25,14980
+80306,Boulder County,40.02,-105.25,1775
+80307,Boulder County,40.02,-105.25,310
+80308,Boulder County,40.02,-105.25,1170
+80309,Boulder County,40.02,-105.25,47
+80310,Boulder County,40,-105.26,104
+80314,Boulder County,40.02,-105.25,0
+80321,Boulder County,40.02,-105.25,0
+80322,Boulder County,40.02,-105.25,0
+80323,Boulder County,40.02,-105.25,0
+80328,Boulder County,40.02,-105.25,0
+80329,Boulder County,40.02,-105.25,0
+80401,Jefferson County,39.73,-105.21,34050
+80402,Jefferson County,39.73,-105.21,1159
+80403,Jefferson County,39.83,-105.29,19020
+80419,Jefferson County,39.73,-105.2,0
+80420,Park County,39.28,-106.06,499
+80421,Park County,39.4,-105.47,7040
+80422,Gilpin County,39.8,-105.49,2990
+80423,Eagle County,39.87,-106.7,99
+80424,Summit County,39.5,-106.04,9490
+80425,Jefferson County,39.35,-105.21,236
+80426,Eagle County,39.91,-107,64
+80427,Gilpin County,39.79,-105.51,719
+80428,Routt County,40.84,-106.93,580
+80429,Lake County,39.37,-106.18,0
+80430,Jackson County,40.57,-106.43,92
+80432,Park County,39.22,-105.8,199
+80433,Jefferson County,39.52,-105.3,8200
+80434,Jackson County,40.85,-106.3,67
+80435,Summit County,39.62,-106.03,8550
+80436,Clear Creek County,39.78,-105.6,461
+80437,Jefferson County,39.63,-105.34,2443
+80438,Clear Creek County,39.75,-105.68,410
+80439,Jefferson County,39.63,-105.34,21930
+80440,Park County,39.22,-105.99,1920
+80442,Grand County,39.92,-105.89,1965
+80443,Summit County,39.57,-106.09,4145
+80444,Clear Creek County,39.71,-105.69,1006
+80446,Grand County,40.08,-105.93,3690
+80447,Grand County,40.25,-105.82,1430
+80448,Park County,39.45,-105.67,81
+80449,Park County,39.02,-105.8,670
+80451,Grand County,40.07,-106.09,529
+80452,Clear Creek County,39.74,-105.51,2810
+80453,Jefferson County,39.66,-105.24,291
+80454,Jefferson County,39.62,-105.23,1329
+80455,Boulder County,40.11,-105.39,430
+80456,Park County,39.38,-105.8,350
+80457,Jefferson County,39.65,-105.3,810
+80459,Grand County,40.05,-106.37,2000
+80461,Lake County,39.24,-106.29,6010
+80463,Routt County,39.97,-106.72,108
+80465,Jefferson County,39.65,-105.18,15100
+80466,Boulder County,39.96,-105.5,3250
+80467,Routt County,40.21,-106.83,1640
+80468,Grand County,40.05,-106.18,190
+80469,Routt County,40.23,-106.93,272
+80470,Jefferson County,39.42,-105.33,3290
+80471,Boulder County,39.94,-105.42,215
+80473,Jackson County,40.45,-106.17,43
+80474,Gilpin County,39.92,-105.5,440
+80475,Park County,39.42,-105.55,197
+80476,Clear Creek County,39.69,-105.72,142
+80477,Routt County,40.49,-106.83,7575
+80478,Grand County,39.98,-105.85,615
+80479,Routt County,40.07,-106.8,21
+80480,Jackson County,40.73,-106.28,950
+80481,Boulder County,40.07,-105.51,420
+80482,Grand County,39.88,-105.77,1854
+80483,Routt County,40.15,-106.9,514
+80487,Routt County,40.47,-106.82,7930
+80488,Routt County,40.45,-106.82,3045
+80497,Summit County,39.67,-106,905
+80498,Summit County,39.65,-106.08,5360
+80501,Boulder County,40.17,-105.11,38700
+80502,Boulder County,40.17,-105.11,1663
+80503,Boulder County,40.17,-105.21,30470
+80504,Boulder County,40.16,-105.03,51190
+80510,Boulder County,40.2,-105.52,340
+80511,Larimer County,40.34,-105.57,178
+80512,Larimer County,40.63,-105.17,1780
+80513,Larimer County,40.3,-105.08,11470
+80514,Weld County,40.07,-104.96,4840
+80515,Larimer County,40.43,-105.33,540
+80516,Weld County,40.02,-105.04,25090
+80517,Larimer County,40.37,-105.52,9370
+80520,Weld County,40.11,-104.93,1822
+80521,Larimer County,40.59,-105.13,19850
+80522,Larimer County,40.55,-105.06,1148
+80523,Larimer County,40.55,-105.06,89
+80524,Larimer County,40.65,-105.03,32750
+80525,Larimer County,40.55,-105.06,48030
+80526,Larimer County,40.52,-105.14,39940
+80527,Larimer County,40.55,-105.06,1308
+80528,Larimer County,40.49,-105,20680
+80530,Weld County,40.1,-104.94,4350
+80532,Larimer County,40.49,-105.47,284
+80533,Boulder County,40.18,-105.17,283
+80534,Weld County,40.33,-104.91,15630
+80535,Larimer County,40.73,-105.18,2540
+80536,Larimer County,40.87,-105.37,1580
+80537,Larimer County,40.36,-105.18,37900
+80538,Larimer County,40.41,-105.07,43510
+80539,Larimer County,40.41,-105.07,952
+80540,Boulder County,40.24,-105.36,4520
+80541,Larimer County,40.48,-105.2,441
+80542,Weld County,40.23,-104.98,4670
+80543,Weld County,40.31,-104.85,6640
+80544,Boulder County,40.1,-105.17,610
+80545,Larimer County,40.8,-105.58,650
+80546,Weld County,40.53,-104.85,463
+80547,Larimer County,40.53,-104.97,3350
+80549,Larimer County,40.7,-105,10170
+80550,Weld County,40.48,-104.9,26460
+80551,Weld County,40.48,-104.9,0
+80553,Larimer County,40.55,-105.06,0
+80601,Adams County,39.95,-104.79,36160
+80602,Adams County,39.95,-104.9,33800
+80603,Weld County,39.97,-104.74,12910
+80610,Weld County,40.58,-104.73,2780
+80611,Weld County,40.63,-104.32,650
+80612,Weld County,40.9,-104.87,480
+80614,Adams County,39.92,-104.96,609
+80615,Weld County,40.52,-104.71,8020
+80620,Weld County,40.37,-104.69,18160
+80621,Weld County,40.08,-104.8,13060
+80622,Weld County,40.54,-104.46,290
+80623,Weld County,40.28,-104.78,1197
+80624,Weld County,40.45,-104.53,1030
+80631,Weld County,40.44,-104.67,41300
+80632,Weld County,40.42,-104.74,1249
+80633,Weld County,40.42,-104.74,670
+80634,Weld County,40.42,-104.74,55040
+80638,Weld County,40.42,-104.74,0
+80639,Weld County,40.42,-104.74,7
+80640,Adams County,39.92,-104.87,12220
+80642,Weld County,40.07,-104.64,3760
+80643,Weld County,40.1,-104.51,2770
+80644,Weld County,40.38,-104.56,2990
+80645,Weld County,40.34,-104.7,3970
+80646,Weld County,40.48,-104.68,237
+80648,Weld County,40.7,-104.78,980
+80649,Morgan County,40.33,-104.12,340
+80650,Weld County,40.63,-104.75,1620
+80651,Weld County,40.21,-104.82,4330
+80652,Weld County,40.17,-104.37,610
+80653,Morgan County,40.35,-103.97,690
+80654,Morgan County,40.23,-104.07,2450
+80701,Morgan County,40.26,-103.79,15450
+80705,Morgan County,40.27,-103.83,980
+80720,Washington County,40.16,-103.21,2120
+80721,Phillips County,40.68,-102.17,176
+80722,Logan County,40.55,-103.27,360
+80723,Morgan County,40.25,-103.63,6080
+80726,Logan County,40.85,-102.8,330
+80727,Yuma County,40.11,-102.48,350
+80728,Logan County,40.68,-102.84,780
+80729,Weld County,40.86,-104.22,350
+80731,Phillips County,40.64,-102.62,1300
+80732,Weld County,40.97,-104.3,63
+80733,Morgan County,40.32,-103.52,520
+80734,Phillips County,40.58,-102.3,2910
+80735,Yuma County,39.7,-102.3,400
+80736,Logan County,40.75,-103.06,630
+80737,Sedgwick County,40.98,-102.26,1310
+80740,Washington County,39.73,-103.4,99
+80741,Logan County,40.48,-103.35,820
+80742,Weld County,40.62,-103.78,200
+80743,Washington County,40.14,-102.96,960
+80744,Sedgwick County,40.87,-102.39,390
+80745,Logan County,40.9,-103.39,127
+80746,Phillips County,40.61,-102.47,46
+80747,Logan County,40.96,-103.11,420
+80749,Sedgwick County,40.93,-102.52,270
+80750,Morgan County,40.41,-103.6,370
+80751,Logan County,40.62,-103.19,12690
+80754,Weld County,40.63,-103.65,128
+80755,Yuma County,39.93,-102.28,151
+80757,Washington County,39.98,-103.58,185
+80758,Yuma County,40.07,-102.22,3520
+80759,Yuma County,40.12,-102.72,4280
+80801,Washington County,39.75,-103.22,167
+80802,Cheyenne County,38.85,-102.17,230
+80804,Lincoln County,39.28,-103.27,260
+80805,Kit Carson County,39.3,-102.42,390
+80807,Kit Carson County,39.3,-102.27,3930
+80808,El Paso County,39.03,-104.29,5670
+80809,El Paso County,38.9,-104.97,1370
+80810,Cheyenne County,38.81,-102.35,950
+80812,Washington County,39.67,-102.85,210
+80813,Teller County,38.74,-105.17,1680
+80814,Teller County,38.94,-105.16,3670
+80815,Kit Carson County,39.29,-103.06,750
+80816,Teller County,38.95,-105.29,4330
+80817,El Paso County,38.66,-104.69,27300
+80818,Lincoln County,39.27,-103.49,320
+80819,El Paso County,38.93,-105.02,809
+80820,Park County,38.75,-105.53,590
+80821,Lincoln County,39.13,-103.46,850
+80822,Yuma County,39.65,-102.68,210
+80823,Lincoln County,38.73,-103.53,179
+80824,Yuma County,39.62,-102.6,225
+80825,Cheyenne County,38.76,-102.79,380
+80826,Lincoln County,39.26,-103.68,0
+80827,Park County,38.98,-105.37,620
+80828,Lincoln County,39.26,-103.68,2240
+80829,El Paso County,38.85,-104.91,4610
+80830,Elbert County,39.11,-103.89,190
+80831,El Paso County,39.03,-104.48,25940
+80832,El Paso County,39.12,-104.16,600
+80833,El Paso County,38.84,-104.08,560
+80834,Kit Carson County,39.29,-102.86,220
+80835,Elbert County,39.14,-104.08,830
+80836,Kit Carson County,39.3,-102.6,1050
+80840,El Paso County,38.99,-104.85,2400
+80841,El Paso County,38.99,-104.85,2019
+80860,Teller County,38.7,-105.14,465
+80861,Kit Carson County,39.3,-102.74,200
+80862,Cheyenne County,38.87,-103.06,39
+80863,Teller County,38.99,-105.05,10330
+80864,El Paso County,38.84,-104.22,1090
+80866,Teller County,38.99,-105.05,2417
+80901,El Paso County,38.86,-104.76,1000
+80902,El Paso County,38.67,-104.81,11480
+80903,El Paso County,38.83,-104.81,10540
+80904,El Paso County,38.86,-104.88,17130
+80905,El Paso County,38.82,-104.84,14450
+80906,El Paso County,38.75,-104.88,33850
+80907,El Paso County,38.88,-104.83,23550
+80908,El Paso County,39.05,-104.69,16450
+80909,El Paso County,38.86,-104.76,30210
+80910,El Paso County,38.81,-104.77,25220
+80911,El Paso County,38.75,-104.72,31880
+80912,El Paso County,38.86,-104.76,0
+80913,El Paso County,38.69,-104.75,9119
+80914,El Paso County,38.82,-104.7,340
+80915,El Paso County,38.85,-104.72,20280
+80916,El Paso County,38.81,-104.71,37170
+80917,El Paso County,38.89,-104.75,26790
+80918,El Paso County,38.91,-104.78,42390
+80919,El Paso County,38.93,-104.85,27350
+80920,El Paso County,38.96,-104.77,37660
+80921,El Paso County,39.02,-104.91,21210
+80922,El Paso County,38.89,-104.7,27270
+80923,El Paso County,38.93,-104.71,28300
+80924,El Paso County,38.97,-104.72,8570
+80925,El Paso County,38.76,-104.66,10160
+80926,El Paso County,38.63,-104.9,1240
+80927,El Paso County,38.92,-104.67,2970
+80928,El Paso County,38.63,-104.4,910
+80929,El Paso County,38.82,-104.63,280
+80930,El Paso County,38.81,-104.5,1590
+80931,El Paso County,38.86,-104.76,425
+80932,El Paso County,38.86,-104.76,509
+80933,El Paso County,38.86,-104.76,467
+80934,El Paso County,38.86,-104.76,387
+80935,El Paso County,38.86,-104.76,1747
+80936,El Paso County,38.86,-104.76,804
+80937,El Paso County,38.86,-104.76,352
+80938,El Paso County,38.9,-104.66,0
+80939,El Paso County,38.88,-104.68,0
+80940,El Paso County,38.88,-104.67,0
+80941,El Paso County,38.86,-104.76,0
+80942,El Paso County,38.86,-104.76,0
+80943,El Paso County,38.86,-104.76,0
+80944,El Paso County,38.86,-104.76,0
+80945,El Paso County,38.86,-104.76,0
+80946,El Paso County,38.86,-104.76,38
+80947,El Paso County,38.86,-104.76,0
+80949,El Paso County,38.86,-104.76,604
+80950,El Paso County,38.86,-104.76,0
+80951,El Paso County,38.89,-104.65,4340
+80960,El Paso County,38.86,-104.76,503
+80962,El Paso County,38.86,-104.76,802
+80970,El Paso County,38.86,-104.76,797
+80977,El Paso County,38.86,-104.76,0
+80995,El Paso County,38.86,-104.76,0
+80997,El Paso County,38.86,-104.76,0
+81001,Pueblo County,38.29,-104.54,23640
+81002,Pueblo County,38.27,-104.62,271
+81003,Pueblo County,38.27,-104.62,9710
+81004,Pueblo County,38.04,-104.71,19010
+81005,Pueblo County,38.2,-104.81,27170
+81006,Pueblo County,38.24,-104.5,10120
+81007,Pueblo County,38.36,-104.77,28130
+81008,Pueblo County,38.44,-104.62,9820
+81009,Pueblo County,38.27,-104.62,0
+81010,Pueblo County,38.27,-104.62,0
+81011,Pueblo County,38.27,-104.62,0
+81012,Pueblo County,38.27,-104.62,0
+81019,Pueblo County,37.94,-104.84,1992
+81020,Las Animas County,37.4,-104.65,670
+81021,Kiowa County,38.33,-103.33,0
+81022,Pueblo County,38.23,-104.35,1230
+81023,Pueblo County,38.08,-104.98,1100
+81024,Las Animas County,37.25,-104.73,214
+81025,Pueblo County,38.25,-104.25,760
+81027,Las Animas County,37.01,-103.87,128
+81029,Baca County,37.1,-102.57,230
+81030,Otero County,38.1,-103.52,223
+81033,Crowley County,38.19,-103.86,123
+81034,Crowley County,38.19,-103.85,0
+81036,Kiowa County,38.48,-102.77,780
+81038,Bent County,38.08,-103.14,0
+81039,Otero County,38.12,-104.02,1520
+81040,Huerfano County,37.78,-105.17,310
+81041,Prowers County,38.06,-102.31,660
+81043,Prowers County,38.13,-102.22,57
+81044,Bent County,37.93,-102.95,191
+81045,Kiowa County,38.45,-103.16,117
+81046,Las Animas County,37.28,-104.38,108
+81047,Prowers County,38.05,-102.12,1300
+81049,Las Animas County,37.24,-103.35,200
+81050,Otero County,37.98,-103.54,7910
+81052,Prowers County,38.08,-102.61,7480
+81054,Bent County,38.06,-103.22,2510
+81055,Huerfano County,37.51,-105,1140
+81057,Bent County,38.12,-102.88,380
+81058,Otero County,38.1,-103.86,750
+81059,Las Animas County,37.34,-104.27,164
+81062,Crowley County,38.16,-103.94,600
+81063,Crowley County,38.22,-103.75,1220
+81064,Baca County,37.22,-103,170
+81067,Otero County,38.04,-103.72,4440
+81069,Pueblo County,37.92,-104.93,1660
+81071,Kiowa County,38.46,-102.29,240
+81073,Baca County,37.4,-102.61,1460
+81075,,37.29,-102.18,0
+81076,Crowley County,38.23,-103.66,300
+81077,Otero County,38.02,-103.63,715
+81081,Las Animas County,37.05,-104.03,86
+81082,Las Animas County,37.16,-104.5,8910
+81084,Baca County,37.56,-102.39,109
+81087,Baca County,37.37,-102.44,144
+81089,Huerfano County,37.62,-104.77,3280
+81090,Baca County,37.38,-102.28,760
+81091,Las Animas County,37.13,-105.01,580
+81092,Prowers County,38.15,-102.71,720
+81101,Alamosa County,37.46,-105.87,12170
+81102,Alamosa County,37.46,-105.87,41
+81120,Conejos County,37.07,-106.01,1630
+81121,Archuleta County,37.11,-107.44,316
+81122,La Plata County,37.23,-107.59,8000
+81123,Costilla County,37.43,-105.51,590
+81124,Conejos County,37.31,-106.16,271
+81125,Saguache County,37.75,-106.11,2900
+81126,Costilla County,37.17,-105.38,120
+81127,Archuleta County,37.21,-107.34,41
+81128,Archuleta County,37.03,-106.83,144
+81129,Conejos County,37.1,-106.03,126
+81130,Mineral County,37.85,-106.92,690
+81131,Saguache County,37.99,-105.69,783
+81132,Rio Grande County,37.67,-106.35,2440
+81133,Costilla County,37.43,-105.43,890
+81134,Costilla County,37,-105.53,70
+81135,Rio Grande County,37.55,-106.05,43
+81136,Alamosa County,37.74,-105.87,190
+81137,San Juan County,37.11,-107.63,4800
+81138,Costilla County,37,-105.63,47
+81140,Conejos County,37.27,-105.96,1960
+81141,Conejos County,37.17,-105.93,1152
+81143,Saguache County,38,-105.9,470
+81144,Rio Grande County,37.57,-106.14,6280
+81146,Alamosa County,37.65,-105.88,510
+81147,Archuleta County,37.24,-107.03,10080
+81148,Conejos County,37.17,-105.99,370
+81149,Saguache County,38.08,-106.14,610
+81151,Conejos County,37.25,-105.9,1280
+81152,Costilla County,37.2,-105.42,850
+81153,Costilla County,37.12,-105.36,201
+81154,Rio Grande County,37.67,-106.64,920
+81155,Saguache County,38.25,-105.95,160
+81157,Archuleta County,37.24,-107.03,661
+81201,Chaffee County,38.53,-106,7890
+81210,Gunnison County,38.67,-106.83,230
+81211,Chaffee County,38.83,-106.14,6260
+81212,Fremont County,38.44,-105.23,20800
+81215,Fremont County,38.44,-105.23,1232
+81220,Gunnison County,38.37,-107.5,207
+81221,Fremont County,38.36,-105.14,293
+81222,Fremont County,38.35,-105.83,290
+81223,Fremont County,38.37,-105.68,1380
+81224,Gunnison County,38.87,-106.98,4320
+81225,Gunnison County,38.95,-106.9,156
+81226,Fremont County,38.38,-105.11,4620
+81227,Chaffee County,38.55,-106.29,0
+81228,Lake County,39.05,-106.27,18
+81230,Gunnison County,38.54,-106.92,7690
+81231,Gunnison County,38.55,-106.92,69
+81232,Fremont County,38.29,-105.61,85
+81233,Fremont County,38.45,-105.84,670
+81235,Hinsdale County,38.07,-107.3,640
+81236,Chaffee County,38.73,-106.08,850
+81237,Gunnison County,38.6,-106.61,56
+81239,Gunnison County,38.5,-106.72,57
+81240,Fremont County,38.43,-105.01,3650
+81241,Gunnison County,38.6,-106.51,105
+81242,Chaffee County,38.51,-106.07,680
+81243,Gunnison County,38.27,-107.08,108
+81244,Fremont County,38.36,-105.16,369
+81247,Gunnison County,38.54,-106.92,0
+81248,Saguache County,38.4,-106.42,39
+81251,Lake County,39.1,-106.47,162
+81252,Custer County,38.13,-105.46,3300
+81253,Custer County,38.23,-105.08,370
+81290,Fremont County,38.38,-105.11,0
+81301,La Plata County,37.27,-107.88,23420
+81302,La Plata County,37.27,-107.88,2877
+81303,La Plata County,37.14,-107.88,6750
+81320,Dolores County,37.65,-108.82,220
+81321,Montezuma County,37.35,-108.57,12430
+81323,Montezuma County,37.47,-108.49,3880
+81324,Dolores County,37.76,-108.9,1150
+81325,San Miguel County,37.92,-108.93,82
+81326,La Plata County,37.28,-108.03,2020
+81327,Montezuma County,37.5,-108.67,500
+81328,Montezuma County,37.34,-108.29,3350
+81329,La Plata County,37.12,-108.13,132
+81330,Montezuma County,37.18,-108.49,45
+81331,Montezuma County,37.58,-108.76,320
+81332,Dolores County,37.7,-107.99,206
+81334,Montezuma County,37.2,-108.72,688
+81335,Montezuma County,37.5,-108.76,185
+81401,Montrose County,38.49,-107.87,19590
+81402,Montrose County,38.49,-107.87,1613
+81403,Montrose County,38.3,-107.9,9570
+81410,Delta County,38.8,-107.97,1330
+81411,Montrose County,38.25,-108.98,63
+81413,Delta County,38.89,-107.92,4280
+81414,Delta County,38.77,-107.98,181
+81415,Delta County,38.7,-107.6,1230
+81416,Delta County,38.74,-108.07,11400
+81418,Delta County,38.84,-107.95,1310
+81419,Delta County,38.8,-107.71,3060
+81420,Delta County,38.78,-107.77,71
+81422,Montrose County,38.21,-108.56,380
+81423,San Miguel County,38.13,-108.29,1294
+81424,Montrose County,38.26,-108.55,980
+81425,Montrose County,38.6,-107.98,4520
+81426,San Miguel County,37.87,-107.89,148
+81427,Ouray County,38.03,-107.64,1175
+81428,Delta County,38.86,-107.59,2950
+81429,Montrose County,38.37,-108.95,102
+81430,San Miguel County,38.02,-108.07,342
+81431,Montrose County,38.18,-108.42,250
+81432,Ouray County,38.15,-107.75,2610
+81433,San Juan County,37.82,-107.64,498
+81434,Gunnison County,38.92,-107.43,119
+81435,San Miguel County,37.94,-107.9,5260
+81501,Mesa County,39.08,-108.55,15200
+81502,Mesa County,39.08,-108.55,2169
+81503,Mesa County,39.03,-108.43,13570
+81504,Mesa County,39.08,-108.49,26500
+81505,Mesa County,39.26,-108.53,9490
+81506,Mesa County,39.11,-108.53,9870
+81507,Mesa County,38.99,-108.66,14310
+81520,Mesa County,39.07,-108.46,11760
+81521,Mesa County,39.15,-108.72,14670
+81522,Mesa County,38.68,-108.99,110
+81523,Mesa County,39,-108.73,556
+81524,Mesa County,39.2,-108.82,1900
+81525,Mesa County,39.22,-108.87,770
+81526,Mesa County,39.1,-108.35,4590
+81527,Mesa County,38.98,-108.43,1770
+81601,Garfield County,39.54,-107.33,13160
+81602,Garfield County,39.54,-107.33,2258
+81610,Moffat County,40.24,-109,350
+81611,Pitkin County,39.19,-106.82,6380
+81612,Pitkin County,39.13,-106.84,4630
+81615,Pitkin County,39.19,-106.93,1692
+81620,Eagle County,39.65,-106.53,10108
+81621,Eagle County,39.36,-107.02,6360
+81623,Garfield County,39.39,-107.21,14720
+81624,Mesa County,39.23,-107.95,1000
+81625,Moffat County,40.52,-107.55,9980
+81626,Moffat County,40.52,-107.55,1653
+81630,Mesa County,39.33,-108.21,830
+81631,Eagle County,39.65,-106.82,6643
+81632,Eagle County,39.65,-106.6,8300
+81633,Moffat County,40.34,-108.43,0
+81635,Garfield County,39.44,-108.05,5500
+81636,Garfield County,39.44,-108.02,87
+81637,Eagle County,39.64,-106.94,6750
+81638,Moffat County,40.37,-107.6,132
+81639,Routt County,40.48,-107.26,1930
+81640,Moffat County,40.67,-108.51,210
+81641,Rio Blanco County,40.05,-107.89,3280
+81642,Pitkin County,39.27,-106.59,45
+81643,Mesa County,39.17,-108.13,695
+81645,Eagle County,39.58,-106.42,1097
+81646,Mesa County,39.18,-108.07,180
+81647,Garfield County,39.58,-107.53,6530
+81648,Rio Blanco County,40.08,-108.77,2380
+81649,Eagle County,39.5,-106.36,226
+81650,Garfield County,39.53,-107.77,12750
+81652,Garfield County,39.54,-107.65,5020
+81653,Moffat County,40.99,-107.37,16
+81654,Pitkin County,39.33,-106.98,1030
+81655,Eagle County,39.78,-106.46,304
+81656,Pitkin County,39.28,-106.9,419
+81657,Eagle County,39.64,-106.39,3540
+81658,Eagle County,39.64,-106.39,4276
