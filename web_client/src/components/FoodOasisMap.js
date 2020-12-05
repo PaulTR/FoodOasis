@@ -1,10 +1,10 @@
 import React from "react";
 import GoogleMapReact from "google-map-react";
-import "./style/map.css";
+import "./style/foodOasisMap.css";
 
-export default FoodOasisMap = ({ location, zoomLevel }) => (
+export const FoodOasisMap = ({ location, zoomLevel }) => (
   <div className="map">
-    <h2 className="map-h2">Come Visit Us At Our Campus</h2>
+    <h2 className="map-h2">Click on the map to see FoodOasis score!</h2>
 
     <div className="google-map">
       <GoogleMapReact
@@ -12,12 +12,13 @@ export default FoodOasisMap = ({ location, zoomLevel }) => (
         defaultCenter={location}
         defaultZoom={zoomLevel}
       >
-        <LocationPin
+        {/* <LocationPin
           lat={location.lat}
           lng={location.lng}
           text={location.address}
-        />
+        /> */}
       </GoogleMapReact>
     </div>
   </div>
 );
+export default FoodOasisMap;
