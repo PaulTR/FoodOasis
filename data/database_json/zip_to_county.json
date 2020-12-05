@@ -1,0 +1,3974 @@
+{
+  "80001": {
+    "county": "Jefferson County",
+    "latitude": 39.82,
+    "longitude": -105.1,
+    "est_population": 819
+  },
+  "80002": {
+    "county": "Jefferson County",
+    "latitude": 39.79,
+    "longitude": -105.11,
+    "est_population": 17140
+  },
+  "80003": {
+    "county": "Jefferson County",
+    "latitude": 39.83,
+    "longitude": -105.06,
+    "est_population": 33610
+  },
+  "80004": {
+    "county": "Jefferson County",
+    "latitude": 39.82,
+    "longitude": -105.1,
+    "est_population": 33620
+  },
+  "80005": {
+    "county": "Jefferson County",
+    "latitude": 39.85,
+    "longitude": -105.13,
+    "est_population": 27280
+  },
+  "80006": {
+    "county": "Jefferson County",
+    "latitude": 39.82,
+    "longitude": -105.1,
+    "est_population": 741
+  },
+  "80007": {
+    "county": "Jefferson County",
+    "latitude": 39.86,
+    "longitude": -105.19,
+    "est_population": 10950
+  },
+  "80010": {
+    "county": "Arapahoe County",
+    "latitude": 39.74,
+    "longitude": -104.86,
+    "est_population": 40540
+  },
+  "80011": {
+    "county": "Arapahoe County",
+    "latitude": 39.74,
+    "longitude": -104.78,
+    "est_population": 51740
+  },
+  "80012": {
+    "county": "Arapahoe County",
+    "latitude": 39.69,
+    "longitude": -104.81,
+    "est_population": 47070
+  },
+  "80013": {
+    "county": "Arapahoe County",
+    "latitude": 39.66,
+    "longitude": -104.77,
+    "est_population": 70290
+  },
+  "80014": {
+    "county": "Arapahoe County",
+    "latitude": 39.66,
+    "longitude": -104.84,
+    "est_population": 35970
+  },
+  "80015": {
+    "county": "Arapahoe County",
+    "latitude": 39.63,
+    "longitude": -104.78,
+    "est_population": 64580
+  },
+  "80016": {
+    "county": "Arapahoe County",
+    "latitude": 39.6,
+    "longitude": -104.71,
+    "est_population": 51420
+  },
+  "80017": {
+    "county": "Arapahoe County",
+    "latitude": 39.7,
+    "longitude": -104.79,
+    "est_population": 35000
+  },
+  "80018": {
+    "county": "Arapahoe County",
+    "latitude": 39.69,
+    "longitude": -104.69,
+    "est_population": 12330
+  },
+  "80019": {
+    "county": "Adams County",
+    "latitude": 39.79,
+    "longitude": -104.7,
+    "est_population": 2400
+  },
+  "80020": {
+    "county": "Broomfield County",
+    "latitude": 39.94,
+    "longitude": -105.06,
+    "est_population": 47620
+  },
+  "80021": {
+    "county": "Jefferson County",
+    "latitude": 39.89,
+    "longitude": -105.11,
+    "est_population": 30350
+  },
+  "80022": {
+    "county": "Adams County",
+    "latitude": 39.88,
+    "longitude": -104.8,
+    "est_population": 49830
+  },
+  "80023": {
+    "county": "Broomfield County",
+    "latitude": 39.96,
+    "longitude": -105.02,
+    "est_population": 19830
+  },
+  "80024": {
+    "county": "Adams County",
+    "latitude": 39.84,
+    "longitude": -104.92,
+    "est_population": 425
+  },
+  "80025": {
+    "county": "Boulder County",
+    "latitude": 39.94,
+    "longitude": -105.28,
+    "est_population": 210
+  },
+  "80026": {
+    "county": "Boulder County",
+    "latitude": 39.99,
+    "longitude": -105.09,
+    "est_population": 28280
+  },
+  "80027": {
+    "county": "Boulder County",
+    "latitude": 39.96,
+    "longitude": -105.14,
+    "est_population": 32270
+  },
+  "80028": {
+    "county": "Boulder County",
+    "latitude": 39.95,
+    "longitude": -105.14,
+    "est_population": 0
+  },
+  "80030": {
+    "county": "Adams County",
+    "latitude": 39.83,
+    "longitude": -105.04,
+    "est_population": 14250
+  },
+  "80031": {
+    "county": "Adams County",
+    "latitude": 39.88,
+    "longitude": -105.05,
+    "est_population": 34190
+  },
+  "80033": {
+    "county": "Jefferson County",
+    "latitude": 39.77,
+    "longitude": -105.09,
+    "est_population": 22600
+  },
+  "80034": {
+    "county": "Jefferson County",
+    "latitude": 39.77,
+    "longitude": -105.09,
+    "est_population": 543
+  },
+  "80035": {
+    "county": "Jefferson County",
+    "latitude": 39.88,
+    "longitude": -105.05,
+    "est_population": 603
+  },
+  "80036": {
+    "county": "Jefferson County",
+    "latitude": 39.88,
+    "longitude": -105.05,
+    "est_population": 346
+  },
+  "80037": {
+    "county": "Adams County",
+    "latitude": 39.86,
+    "longitude": -104.86,
+    "est_population": 638
+  },
+  "80038": {
+    "county": "Broomfield County",
+    "latitude": 39.94,
+    "longitude": -105.06,
+    "est_population": 636
+  },
+  "80040": {
+    "county": "Arapahoe County",
+    "latitude": 39.69,
+    "longitude": -104.81,
+    "est_population": 517
+  },
+  "80041": {
+    "county": "Arapahoe County",
+    "latitude": 39.69,
+    "longitude": -104.81,
+    "est_population": 569
+  },
+  "80042": {
+    "county": "Arapahoe County",
+    "latitude": 39.69,
+    "longitude": -104.81,
+    "est_population": 479
+  },
+  "80044": {
+    "county": "Arapahoe County",
+    "latitude": 39.69,
+    "longitude": -104.81,
+    "est_population": 692
+  },
+  "80045": {
+    "county": "Adams County",
+    "latitude": 39.75,
+    "longitude": -104.84,
+    "est_population": 520
+  },
+  "80046": {
+    "county": "Arapahoe County",
+    "latitude": 39.69,
+    "longitude": -104.81,
+    "est_population": 706
+  },
+  "80047": {
+    "county": "Arapahoe County",
+    "latitude": 39.69,
+    "longitude": -104.81,
+    "est_population": 1458
+  },
+  "80101": {
+    "county": "Elbert County",
+    "latitude": 39.47,
+    "longitude": -103.95,
+    "est_population": 290
+  },
+  "80102": {
+    "county": "Adams County",
+    "latitude": 39.75,
+    "longitude": -104.42,
+    "est_population": 5480
+  },
+  "80103": {
+    "county": "Arapahoe County",
+    "latitude": 39.71,
+    "longitude": -104.22,
+    "est_population": 2350
+  },
+  "80104": {
+    "county": "Douglas County",
+    "latitude": 39.37,
+    "longitude": -104.85,
+    "est_population": 30890
+  },
+  "80105": {
+    "county": "Arapahoe County",
+    "latitude": 39.61,
+    "longitude": -104.04,
+    "est_population": 1090
+  },
+  "80106": {
+    "county": "El Paso County",
+    "latitude": 39.22,
+    "longitude": -104.53,
+    "est_population": 4120
+  },
+  "80107": {
+    "county": "Elbert County",
+    "latitude": 39.36,
+    "longitude": -104.6,
+    "est_population": 12330
+  },
+  "80108": {
+    "county": "Douglas County",
+    "latitude": 39.45,
+    "longitude": -104.85,
+    "est_population": 26400
+  },
+  "80109": {
+    "county": "Douglas County",
+    "latitude": 39.36,
+    "longitude": -104.9,
+    "est_population": 22390
+  },
+  "80110": {
+    "county": "Arapahoe County",
+    "latitude": 39.64,
+    "longitude": -104.99,
+    "est_population": 19900
+  },
+  "80111": {
+    "county": "Arapahoe County",
+    "latitude": 39.61,
+    "longitude": -104.88,
+    "est_population": 30680
+  },
+  "80112": {
+    "county": "Arapahoe County",
+    "latitude": 39.58,
+    "longitude": -104.86,
+    "est_population": 30580
+  },
+  "80113": {
+    "county": "Arapahoe County",
+    "latitude": 39.64,
+    "longitude": -104.96,
+    "est_population": 18640
+  },
+  "80116": {
+    "county": "Douglas County",
+    "latitude": 39.38,
+    "longitude": -104.75,
+    "est_population": 4230
+  },
+  "80117": {
+    "county": "Elbert County",
+    "latitude": 39.34,
+    "longitude": -104.46,
+    "est_population": 2470
+  },
+  "80118": {
+    "county": "Douglas County",
+    "latitude": 39.18,
+    "longitude": -104.89,
+    "est_population": 5720
+  },
+  "80120": {
+    "county": "Arapahoe County",
+    "latitude": 39.59,
+    "longitude": -105.01,
+    "est_population": 27340
+  },
+  "80121": {
+    "county": "Arapahoe County",
+    "latitude": 39.61,
+    "longitude": -104.95,
+    "est_population": 17570
+  },
+  "80122": {
+    "county": "Arapahoe County",
+    "latitude": 39.58,
+    "longitude": -104.95,
+    "est_population": 29930
+  },
+  "80123": {
+    "county": "Jefferson County",
+    "latitude": 39.62,
+    "longitude": -105.07,
+    "est_population": 42920
+  },
+  "80124": {
+    "county": "Douglas County",
+    "latitude": 39.53,
+    "longitude": -104.89,
+    "est_population": 20200
+  },
+  "80125": {
+    "county": "Douglas County",
+    "latitude": 39.49,
+    "longitude": -105.05,
+    "est_population": 10390
+  },
+  "80126": {
+    "county": "Douglas County",
+    "latitude": 39.54,
+    "longitude": -104.96,
+    "est_population": 43160
+  },
+  "80127": {
+    "county": "Jefferson County",
+    "latitude": 39.57,
+    "longitude": -105.14,
+    "est_population": 43810
+  },
+  "80128": {
+    "county": "Jefferson County",
+    "latitude": 39.56,
+    "longitude": -105.08,
+    "est_population": 35760
+  },
+  "80129": {
+    "county": "Douglas County",
+    "latitude": 39.54,
+    "longitude": -105,
+    "est_population": 28330
+  },
+  "80130": {
+    "county": "Douglas County",
+    "latitude": 39.54,
+    "longitude": -104.93,
+    "est_population": 27380
+  },
+  "80131": {
+    "county": "Douglas County",
+    "latitude": 39.48,
+    "longitude": -105.01,
+    "est_population": 227
+  },
+  "80132": {
+    "county": "El Paso County",
+    "latitude": 39.1,
+    "longitude": -104.85,
+    "est_population": 24040
+  },
+  "80133": {
+    "county": "El Paso County",
+    "latitude": 39.1,
+    "longitude": -104.98,
+    "est_population": 2480
+  },
+  "80134": {
+    "county": "Douglas County",
+    "latitude": 39.5,
+    "longitude": -104.76,
+    "est_population": 63980
+  },
+  "80135": {
+    "county": "Douglas County",
+    "latitude": 39.43,
+    "longitude": -104.97,
+    "est_population": 3710
+  },
+  "80136": {
+    "county": "Adams County",
+    "latitude": 39.73,
+    "longitude": -104.3,
+    "est_population": 5220
+  },
+  "80137": {
+    "county": "Arapahoe County",
+    "latitude": 39.75,
+    "longitude": -104.6,
+    "est_population": 1120
+  },
+  "80138": {
+    "county": "Douglas County",
+    "latitude": 39.52,
+    "longitude": -104.67,
+    "est_population": 30600
+  },
+  "80150": {
+    "county": "Arapahoe County",
+    "latitude": 39.64,
+    "longitude": -104.99,
+    "est_population": 468
+  },
+  "80151": {
+    "county": "Arapahoe County",
+    "latitude": 39.64,
+    "longitude": -104.99,
+    "est_population": 395
+  },
+  "80155": {
+    "county": "Arapahoe County",
+    "latitude": 39.64,
+    "longitude": -104.99,
+    "est_population": 655
+  },
+  "80160": {
+    "county": "Arapahoe County",
+    "latitude": 39.59,
+    "longitude": -105.01,
+    "est_population": 457
+  },
+  "80161": {
+    "county": "Arapahoe County",
+    "latitude": 39.59,
+    "longitude": -105.01,
+    "est_population": 403
+  },
+  "80162": {
+    "county": "Arapahoe County",
+    "latitude": 39.59,
+    "longitude": -105.01,
+    "est_population": 502
+  },
+  "80163": {
+    "county": "Arapahoe County",
+    "latitude": 39.59,
+    "longitude": -105.01,
+    "est_population": 549
+  },
+  "80165": {
+    "county": "Arapahoe County",
+    "latitude": 39.59,
+    "longitude": -105.01,
+    "est_population": 0
+  },
+  "80166": {
+    "county": "Arapahoe County",
+    "latitude": 39.59,
+    "longitude": -105.01,
+    "est_population": 0
+  },
+  "80201": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 1331
+  },
+  "80202": {
+    "county": "Denver County",
+    "latitude": 39.75,
+    "longitude": -105,
+    "est_population": 10700
+  },
+  "80203": {
+    "county": "Denver County",
+    "latitude": 39.73,
+    "longitude": -104.98,
+    "est_population": 15930
+  },
+  "80204": {
+    "county": "Denver County",
+    "latitude": 39.73,
+    "longitude": -105.02,
+    "est_population": 26530
+  },
+  "80205": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.96,
+    "est_population": 27750
+  },
+  "80206": {
+    "county": "Denver County",
+    "latitude": 39.73,
+    "longitude": -104.95,
+    "est_population": 21450
+  },
+  "80207": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.92,
+    "est_population": 20600
+  },
+  "80208": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 36
+  },
+  "80209": {
+    "county": "Denver County",
+    "latitude": 39.71,
+    "longitude": -104.97,
+    "est_population": 21170
+  },
+  "80210": {
+    "county": "Denver County",
+    "latitude": 39.68,
+    "longitude": -104.96,
+    "est_population": 29450
+  },
+  "80211": {
+    "county": "Denver County",
+    "latitude": 39.77,
+    "longitude": -105.02,
+    "est_population": 30010
+  },
+  "80212": {
+    "county": "Denver County",
+    "latitude": 39.77,
+    "longitude": -105.05,
+    "est_population": 16670
+  },
+  "80214": {
+    "county": "Jefferson County",
+    "latitude": 39.74,
+    "longitude": -105.07,
+    "est_population": 22580
+  },
+  "80215": {
+    "county": "Jefferson County",
+    "latitude": 39.74,
+    "longitude": -105.12,
+    "est_population": 17330
+  },
+  "80216": {
+    "county": "Denver County",
+    "latitude": 39.79,
+    "longitude": -104.96,
+    "est_population": 13100
+  },
+  "80217": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 453
+  },
+  "80218": {
+    "county": "Denver County",
+    "latitude": 39.73,
+    "longitude": -104.97,
+    "est_population": 15550
+  },
+  "80219": {
+    "county": "Denver County",
+    "latitude": 39.7,
+    "longitude": -105.04,
+    "est_population": 64150
+  },
+  "80220": {
+    "county": "Denver County",
+    "latitude": 39.73,
+    "longitude": -104.92,
+    "est_population": 33250
+  },
+  "80221": {
+    "county": "Adams County",
+    "latitude": 39.82,
+    "longitude": -105.01,
+    "est_population": 39630
+  },
+  "80222": {
+    "county": "Denver County",
+    "latitude": 39.67,
+    "longitude": -104.93,
+    "est_population": 18420
+  },
+  "80223": {
+    "county": "Denver County",
+    "latitude": 39.7,
+    "longitude": -105,
+    "est_population": 18370
+  },
+  "80224": {
+    "county": "Denver County",
+    "latitude": 39.69,
+    "longitude": -104.91,
+    "est_population": 16470
+  },
+  "80225": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80226": {
+    "county": "Jefferson County",
+    "latitude": 39.71,
+    "longitude": -105.09,
+    "est_population": 29970
+  },
+  "80227": {
+    "county": "Jefferson County",
+    "latitude": 39.67,
+    "longitude": -105.09,
+    "est_population": 32620
+  },
+  "80228": {
+    "county": "Jefferson County",
+    "latitude": 39.69,
+    "longitude": -105.17,
+    "est_population": 31230
+  },
+  "80229": {
+    "county": "Adams County",
+    "latitude": 39.86,
+    "longitude": -104.96,
+    "est_population": 51080
+  },
+  "80230": {
+    "county": "Denver County",
+    "latitude": 39.72,
+    "longitude": -104.89,
+    "est_population": 7790
+  },
+  "80231": {
+    "county": "Denver County",
+    "latitude": 39.67,
+    "longitude": -104.89,
+    "est_population": 31490
+  },
+  "80232": {
+    "county": "Jefferson County",
+    "latitude": 39.69,
+    "longitude": -105.09,
+    "est_population": 20540
+  },
+  "80233": {
+    "county": "Adams County",
+    "latitude": 39.9,
+    "longitude": -104.95,
+    "est_population": 44450
+  },
+  "80234": {
+    "county": "Adams County",
+    "latitude": 39.91,
+    "longitude": -105,
+    "est_population": 25850
+  },
+  "80235": {
+    "county": "Jefferson County",
+    "latitude": 39.65,
+    "longitude": -105.09,
+    "est_population": 6760
+  },
+  "80236": {
+    "county": "Denver County",
+    "latitude": 39.65,
+    "longitude": -105.04,
+    "est_population": 14980
+  },
+  "80237": {
+    "county": "Denver County",
+    "latitude": 39.64,
+    "longitude": -104.9,
+    "est_population": 19230
+  },
+  "80238": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 19370
+  },
+  "80239": {
+    "county": "Denver County",
+    "latitude": 39.79,
+    "longitude": -104.84,
+    "est_population": 44530
+  },
+  "80241": {
+    "county": "Adams County",
+    "latitude": 39.93,
+    "longitude": -104.95,
+    "est_population": 30690
+  },
+  "80243": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80244": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80246": {
+    "county": "Denver County",
+    "latitude": 39.71,
+    "longitude": -104.93,
+    "est_population": 11510
+  },
+  "80247": {
+    "county": "Arapahoe County",
+    "latitude": 39.69,
+    "longitude": -104.88,
+    "est_population": 23950
+  },
+  "80248": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 53
+  },
+  "80249": {
+    "county": "Denver County",
+    "latitude": 39.85,
+    "longitude": -104.7,
+    "est_population": 30040
+  },
+  "80250": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 517
+  },
+  "80251": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80252": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80256": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80257": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80259": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80260": {
+    "county": "Adams County",
+    "latitude": 39.87,
+    "longitude": -105.01,
+    "est_population": 33800
+  },
+  "80261": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 16
+  },
+  "80262": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80263": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80264": {
+    "county": "Denver County",
+    "latitude": 39.74,
+    "longitude": -104.99,
+    "est_population": 0
+  },
+  "80265": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 19
+  },
+  "80266": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80271": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80273": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80274": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 45
+  },
+  "80279": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 85
+  },
+  "80280": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80281": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80290": {
+    "county": "Denver County",
+    "latitude": 39.74,
+    "longitude": -104.99,
+    "est_population": 0
+  },
+  "80291": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80293": {
+    "county": "Denver County",
+    "latitude": 39.75,
+    "longitude": -104.99,
+    "est_population": 0
+  },
+  "80294": {
+    "county": "Denver County",
+    "latitude": 39.75,
+    "longitude": -104.99,
+    "est_population": 0
+  },
+  "80295": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80299": {
+    "county": "Denver County",
+    "latitude": 39.76,
+    "longitude": -104.87,
+    "est_population": 0
+  },
+  "80301": {
+    "county": "Boulder County",
+    "latitude": 40.02,
+    "longitude": -105.25,
+    "est_population": 23080
+  },
+  "80302": {
+    "county": "Boulder County",
+    "latitude": 40.04,
+    "longitude": -105.37,
+    "est_population": 15670
+  },
+  "80303": {
+    "county": "Boulder County",
+    "latitude": 39.97,
+    "longitude": -105.21,
+    "est_population": 18470
+  },
+  "80304": {
+    "county": "Boulder County",
+    "latitude": 40.05,
+    "longitude": -105.29,
+    "est_population": 25190
+  },
+  "80305": {
+    "county": "Boulder County",
+    "latitude": 39.98,
+    "longitude": -105.25,
+    "est_population": 14980
+  },
+  "80306": {
+    "county": "Boulder County",
+    "latitude": 40.02,
+    "longitude": -105.25,
+    "est_population": 1775
+  },
+  "80307": {
+    "county": "Boulder County",
+    "latitude": 40.02,
+    "longitude": -105.25,
+    "est_population": 310
+  },
+  "80308": {
+    "county": "Boulder County",
+    "latitude": 40.02,
+    "longitude": -105.25,
+    "est_population": 1170
+  },
+  "80309": {
+    "county": "Boulder County",
+    "latitude": 40.02,
+    "longitude": -105.25,
+    "est_population": 47
+  },
+  "80310": {
+    "county": "Boulder County",
+    "latitude": 40,
+    "longitude": -105.26,
+    "est_population": 104
+  },
+  "80314": {
+    "county": "Boulder County",
+    "latitude": 40.02,
+    "longitude": -105.25,
+    "est_population": 0
+  },
+  "80321": {
+    "county": "Boulder County",
+    "latitude": 40.02,
+    "longitude": -105.25,
+    "est_population": 0
+  },
+  "80322": {
+    "county": "Boulder County",
+    "latitude": 40.02,
+    "longitude": -105.25,
+    "est_population": 0
+  },
+  "80323": {
+    "county": "Boulder County",
+    "latitude": 40.02,
+    "longitude": -105.25,
+    "est_population": 0
+  },
+  "80328": {
+    "county": "Boulder County",
+    "latitude": 40.02,
+    "longitude": -105.25,
+    "est_population": 0
+  },
+  "80329": {
+    "county": "Boulder County",
+    "latitude": 40.02,
+    "longitude": -105.25,
+    "est_population": 0
+  },
+  "80401": {
+    "county": "Jefferson County",
+    "latitude": 39.73,
+    "longitude": -105.21,
+    "est_population": 34050
+  },
+  "80402": {
+    "county": "Jefferson County",
+    "latitude": 39.73,
+    "longitude": -105.21,
+    "est_population": 1159
+  },
+  "80403": {
+    "county": "Jefferson County",
+    "latitude": 39.83,
+    "longitude": -105.29,
+    "est_population": 19020
+  },
+  "80419": {
+    "county": "Jefferson County",
+    "latitude": 39.73,
+    "longitude": -105.2,
+    "est_population": 0
+  },
+  "80420": {
+    "county": "Park County",
+    "latitude": 39.28,
+    "longitude": -106.06,
+    "est_population": 499
+  },
+  "80421": {
+    "county": "Park County",
+    "latitude": 39.4,
+    "longitude": -105.47,
+    "est_population": 7040
+  },
+  "80422": {
+    "county": "Gilpin County",
+    "latitude": 39.8,
+    "longitude": -105.49,
+    "est_population": 2990
+  },
+  "80423": {
+    "county": "Eagle County",
+    "latitude": 39.87,
+    "longitude": -106.7,
+    "est_population": 99
+  },
+  "80424": {
+    "county": "Summit County",
+    "latitude": 39.5,
+    "longitude": -106.04,
+    "est_population": 9490
+  },
+  "80425": {
+    "county": "Jefferson County",
+    "latitude": 39.35,
+    "longitude": -105.21,
+    "est_population": 236
+  },
+  "80426": {
+    "county": "Eagle County",
+    "latitude": 39.91,
+    "longitude": -107,
+    "est_population": 64
+  },
+  "80427": {
+    "county": "Gilpin County",
+    "latitude": 39.79,
+    "longitude": -105.51,
+    "est_population": 719
+  },
+  "80428": {
+    "county": "Routt County",
+    "latitude": 40.84,
+    "longitude": -106.93,
+    "est_population": 580
+  },
+  "80429": {
+    "county": "Lake County",
+    "latitude": 39.37,
+    "longitude": -106.18,
+    "est_population": 0
+  },
+  "80430": {
+    "county": "Jackson County",
+    "latitude": 40.57,
+    "longitude": -106.43,
+    "est_population": 92
+  },
+  "80432": {
+    "county": "Park County",
+    "latitude": 39.22,
+    "longitude": -105.8,
+    "est_population": 199
+  },
+  "80433": {
+    "county": "Jefferson County",
+    "latitude": 39.52,
+    "longitude": -105.3,
+    "est_population": 8200
+  },
+  "80434": {
+    "county": "Jackson County",
+    "latitude": 40.85,
+    "longitude": -106.3,
+    "est_population": 67
+  },
+  "80435": {
+    "county": "Summit County",
+    "latitude": 39.62,
+    "longitude": -106.03,
+    "est_population": 8550
+  },
+  "80436": {
+    "county": "Clear Creek County",
+    "latitude": 39.78,
+    "longitude": -105.6,
+    "est_population": 461
+  },
+  "80437": {
+    "county": "Jefferson County",
+    "latitude": 39.63,
+    "longitude": -105.34,
+    "est_population": 2443
+  },
+  "80438": {
+    "county": "Clear Creek County",
+    "latitude": 39.75,
+    "longitude": -105.68,
+    "est_population": 410
+  },
+  "80439": {
+    "county": "Jefferson County",
+    "latitude": 39.63,
+    "longitude": -105.34,
+    "est_population": 21930
+  },
+  "80440": {
+    "county": "Park County",
+    "latitude": 39.22,
+    "longitude": -105.99,
+    "est_population": 1920
+  },
+  "80442": {
+    "county": "Grand County",
+    "latitude": 39.92,
+    "longitude": -105.89,
+    "est_population": 1965
+  },
+  "80443": {
+    "county": "Summit County",
+    "latitude": 39.57,
+    "longitude": -106.09,
+    "est_population": 4145
+  },
+  "80444": {
+    "county": "Clear Creek County",
+    "latitude": 39.71,
+    "longitude": -105.69,
+    "est_population": 1006
+  },
+  "80446": {
+    "county": "Grand County",
+    "latitude": 40.08,
+    "longitude": -105.93,
+    "est_population": 3690
+  },
+  "80447": {
+    "county": "Grand County",
+    "latitude": 40.25,
+    "longitude": -105.82,
+    "est_population": 1430
+  },
+  "80448": {
+    "county": "Park County",
+    "latitude": 39.45,
+    "longitude": -105.67,
+    "est_population": 81
+  },
+  "80449": {
+    "county": "Park County",
+    "latitude": 39.02,
+    "longitude": -105.8,
+    "est_population": 670
+  },
+  "80451": {
+    "county": "Grand County",
+    "latitude": 40.07,
+    "longitude": -106.09,
+    "est_population": 529
+  },
+  "80452": {
+    "county": "Clear Creek County",
+    "latitude": 39.74,
+    "longitude": -105.51,
+    "est_population": 2810
+  },
+  "80453": {
+    "county": "Jefferson County",
+    "latitude": 39.66,
+    "longitude": -105.24,
+    "est_population": 291
+  },
+  "80454": {
+    "county": "Jefferson County",
+    "latitude": 39.62,
+    "longitude": -105.23,
+    "est_population": 1329
+  },
+  "80455": {
+    "county": "Boulder County",
+    "latitude": 40.11,
+    "longitude": -105.39,
+    "est_population": 430
+  },
+  "80456": {
+    "county": "Park County",
+    "latitude": 39.38,
+    "longitude": -105.8,
+    "est_population": 350
+  },
+  "80457": {
+    "county": "Jefferson County",
+    "latitude": 39.65,
+    "longitude": -105.3,
+    "est_population": 810
+  },
+  "80459": {
+    "county": "Grand County",
+    "latitude": 40.05,
+    "longitude": -106.37,
+    "est_population": 2000
+  },
+  "80461": {
+    "county": "Lake County",
+    "latitude": 39.24,
+    "longitude": -106.29,
+    "est_population": 6010
+  },
+  "80463": {
+    "county": "Routt County",
+    "latitude": 39.97,
+    "longitude": -106.72,
+    "est_population": 108
+  },
+  "80465": {
+    "county": "Jefferson County",
+    "latitude": 39.65,
+    "longitude": -105.18,
+    "est_population": 15100
+  },
+  "80466": {
+    "county": "Boulder County",
+    "latitude": 39.96,
+    "longitude": -105.5,
+    "est_population": 3250
+  },
+  "80467": {
+    "county": "Routt County",
+    "latitude": 40.21,
+    "longitude": -106.83,
+    "est_population": 1640
+  },
+  "80468": {
+    "county": "Grand County",
+    "latitude": 40.05,
+    "longitude": -106.18,
+    "est_population": 190
+  },
+  "80469": {
+    "county": "Routt County",
+    "latitude": 40.23,
+    "longitude": -106.93,
+    "est_population": 272
+  },
+  "80470": {
+    "county": "Jefferson County",
+    "latitude": 39.42,
+    "longitude": -105.33,
+    "est_population": 3290
+  },
+  "80471": {
+    "county": "Boulder County",
+    "latitude": 39.94,
+    "longitude": -105.42,
+    "est_population": 215
+  },
+  "80473": {
+    "county": "Jackson County",
+    "latitude": 40.45,
+    "longitude": -106.17,
+    "est_population": 43
+  },
+  "80474": {
+    "county": "Gilpin County",
+    "latitude": 39.92,
+    "longitude": -105.5,
+    "est_population": 440
+  },
+  "80475": {
+    "county": "Park County",
+    "latitude": 39.42,
+    "longitude": -105.55,
+    "est_population": 197
+  },
+  "80476": {
+    "county": "Clear Creek County",
+    "latitude": 39.69,
+    "longitude": -105.72,
+    "est_population": 142
+  },
+  "80477": {
+    "county": "Routt County",
+    "latitude": 40.49,
+    "longitude": -106.83,
+    "est_population": 7575
+  },
+  "80478": {
+    "county": "Grand County",
+    "latitude": 39.98,
+    "longitude": -105.85,
+    "est_population": 615
+  },
+  "80479": {
+    "county": "Routt County",
+    "latitude": 40.07,
+    "longitude": -106.8,
+    "est_population": 21
+  },
+  "80480": {
+    "county": "Jackson County",
+    "latitude": 40.73,
+    "longitude": -106.28,
+    "est_population": 950
+  },
+  "80481": {
+    "county": "Boulder County",
+    "latitude": 40.07,
+    "longitude": -105.51,
+    "est_population": 420
+  },
+  "80482": {
+    "county": "Grand County",
+    "latitude": 39.88,
+    "longitude": -105.77,
+    "est_population": 1854
+  },
+  "80483": {
+    "county": "Routt County",
+    "latitude": 40.15,
+    "longitude": -106.9,
+    "est_population": 514
+  },
+  "80487": {
+    "county": "Routt County",
+    "latitude": 40.47,
+    "longitude": -106.82,
+    "est_population": 7930
+  },
+  "80488": {
+    "county": "Routt County",
+    "latitude": 40.45,
+    "longitude": -106.82,
+    "est_population": 3045
+  },
+  "80497": {
+    "county": "Summit County",
+    "latitude": 39.67,
+    "longitude": -106,
+    "est_population": 905
+  },
+  "80498": {
+    "county": "Summit County",
+    "latitude": 39.65,
+    "longitude": -106.08,
+    "est_population": 5360
+  },
+  "80501": {
+    "county": "Boulder County",
+    "latitude": 40.17,
+    "longitude": -105.11,
+    "est_population": 38700
+  },
+  "80502": {
+    "county": "Boulder County",
+    "latitude": 40.17,
+    "longitude": -105.11,
+    "est_population": 1663
+  },
+  "80503": {
+    "county": "Boulder County",
+    "latitude": 40.17,
+    "longitude": -105.21,
+    "est_population": 30470
+  },
+  "80504": {
+    "county": "Boulder County",
+    "latitude": 40.16,
+    "longitude": -105.03,
+    "est_population": 51190
+  },
+  "80510": {
+    "county": "Boulder County",
+    "latitude": 40.2,
+    "longitude": -105.52,
+    "est_population": 340
+  },
+  "80511": {
+    "county": "Larimer County",
+    "latitude": 40.34,
+    "longitude": -105.57,
+    "est_population": 178
+  },
+  "80512": {
+    "county": "Larimer County",
+    "latitude": 40.63,
+    "longitude": -105.17,
+    "est_population": 1780
+  },
+  "80513": {
+    "county": "Larimer County",
+    "latitude": 40.3,
+    "longitude": -105.08,
+    "est_population": 11470
+  },
+  "80514": {
+    "county": "Weld County",
+    "latitude": 40.07,
+    "longitude": -104.96,
+    "est_population": 4840
+  },
+  "80515": {
+    "county": "Larimer County",
+    "latitude": 40.43,
+    "longitude": -105.33,
+    "est_population": 540
+  },
+  "80516": {
+    "county": "Weld County",
+    "latitude": 40.02,
+    "longitude": -105.04,
+    "est_population": 25090
+  },
+  "80517": {
+    "county": "Larimer County",
+    "latitude": 40.37,
+    "longitude": -105.52,
+    "est_population": 9370
+  },
+  "80520": {
+    "county": "Weld County",
+    "latitude": 40.11,
+    "longitude": -104.93,
+    "est_population": 1822
+  },
+  "80521": {
+    "county": "Larimer County",
+    "latitude": 40.59,
+    "longitude": -105.13,
+    "est_population": 19850
+  },
+  "80522": {
+    "county": "Larimer County",
+    "latitude": 40.55,
+    "longitude": -105.06,
+    "est_population": 1148
+  },
+  "80523": {
+    "county": "Larimer County",
+    "latitude": 40.55,
+    "longitude": -105.06,
+    "est_population": 89
+  },
+  "80524": {
+    "county": "Larimer County",
+    "latitude": 40.65,
+    "longitude": -105.03,
+    "est_population": 32750
+  },
+  "80525": {
+    "county": "Larimer County",
+    "latitude": 40.55,
+    "longitude": -105.06,
+    "est_population": 48030
+  },
+  "80526": {
+    "county": "Larimer County",
+    "latitude": 40.52,
+    "longitude": -105.14,
+    "est_population": 39940
+  },
+  "80527": {
+    "county": "Larimer County",
+    "latitude": 40.55,
+    "longitude": -105.06,
+    "est_population": 1308
+  },
+  "80528": {
+    "county": "Larimer County",
+    "latitude": 40.49,
+    "longitude": -105,
+    "est_population": 20680
+  },
+  "80530": {
+    "county": "Weld County",
+    "latitude": 40.1,
+    "longitude": -104.94,
+    "est_population": 4350
+  },
+  "80532": {
+    "county": "Larimer County",
+    "latitude": 40.49,
+    "longitude": -105.47,
+    "est_population": 284
+  },
+  "80533": {
+    "county": "Boulder County",
+    "latitude": 40.18,
+    "longitude": -105.17,
+    "est_population": 283
+  },
+  "80534": {
+    "county": "Weld County",
+    "latitude": 40.33,
+    "longitude": -104.91,
+    "est_population": 15630
+  },
+  "80535": {
+    "county": "Larimer County",
+    "latitude": 40.73,
+    "longitude": -105.18,
+    "est_population": 2540
+  },
+  "80536": {
+    "county": "Larimer County",
+    "latitude": 40.87,
+    "longitude": -105.37,
+    "est_population": 1580
+  },
+  "80537": {
+    "county": "Larimer County",
+    "latitude": 40.36,
+    "longitude": -105.18,
+    "est_population": 37900
+  },
+  "80538": {
+    "county": "Larimer County",
+    "latitude": 40.41,
+    "longitude": -105.07,
+    "est_population": 43510
+  },
+  "80539": {
+    "county": "Larimer County",
+    "latitude": 40.41,
+    "longitude": -105.07,
+    "est_population": 952
+  },
+  "80540": {
+    "county": "Boulder County",
+    "latitude": 40.24,
+    "longitude": -105.36,
+    "est_population": 4520
+  },
+  "80541": {
+    "county": "Larimer County",
+    "latitude": 40.48,
+    "longitude": -105.2,
+    "est_population": 441
+  },
+  "80542": {
+    "county": "Weld County",
+    "latitude": 40.23,
+    "longitude": -104.98,
+    "est_population": 4670
+  },
+  "80543": {
+    "county": "Weld County",
+    "latitude": 40.31,
+    "longitude": -104.85,
+    "est_population": 6640
+  },
+  "80544": {
+    "county": "Boulder County",
+    "latitude": 40.1,
+    "longitude": -105.17,
+    "est_population": 610
+  },
+  "80545": {
+    "county": "Larimer County",
+    "latitude": 40.8,
+    "longitude": -105.58,
+    "est_population": 650
+  },
+  "80546": {
+    "county": "Weld County",
+    "latitude": 40.53,
+    "longitude": -104.85,
+    "est_population": 463
+  },
+  "80547": {
+    "county": "Larimer County",
+    "latitude": 40.53,
+    "longitude": -104.97,
+    "est_population": 3350
+  },
+  "80549": {
+    "county": "Larimer County",
+    "latitude": 40.7,
+    "longitude": -105,
+    "est_population": 10170
+  },
+  "80550": {
+    "county": "Weld County",
+    "latitude": 40.48,
+    "longitude": -104.9,
+    "est_population": 26460
+  },
+  "80551": {
+    "county": "Weld County",
+    "latitude": 40.48,
+    "longitude": -104.9,
+    "est_population": 0
+  },
+  "80553": {
+    "county": "Larimer County",
+    "latitude": 40.55,
+    "longitude": -105.06,
+    "est_population": 0
+  },
+  "80601": {
+    "county": "Adams County",
+    "latitude": 39.95,
+    "longitude": -104.79,
+    "est_population": 36160
+  },
+  "80602": {
+    "county": "Adams County",
+    "latitude": 39.95,
+    "longitude": -104.9,
+    "est_population": 33800
+  },
+  "80603": {
+    "county": "Weld County",
+    "latitude": 39.97,
+    "longitude": -104.74,
+    "est_population": 12910
+  },
+  "80610": {
+    "county": "Weld County",
+    "latitude": 40.58,
+    "longitude": -104.73,
+    "est_population": 2780
+  },
+  "80611": {
+    "county": "Weld County",
+    "latitude": 40.63,
+    "longitude": -104.32,
+    "est_population": 650
+  },
+  "80612": {
+    "county": "Weld County",
+    "latitude": 40.9,
+    "longitude": -104.87,
+    "est_population": 480
+  },
+  "80614": {
+    "county": "Adams County",
+    "latitude": 39.92,
+    "longitude": -104.96,
+    "est_population": 609
+  },
+  "80615": {
+    "county": "Weld County",
+    "latitude": 40.52,
+    "longitude": -104.71,
+    "est_population": 8020
+  },
+  "80620": {
+    "county": "Weld County",
+    "latitude": 40.37,
+    "longitude": -104.69,
+    "est_population": 18160
+  },
+  "80621": {
+    "county": "Weld County",
+    "latitude": 40.08,
+    "longitude": -104.8,
+    "est_population": 13060
+  },
+  "80622": {
+    "county": "Weld County",
+    "latitude": 40.54,
+    "longitude": -104.46,
+    "est_population": 290
+  },
+  "80623": {
+    "county": "Weld County",
+    "latitude": 40.28,
+    "longitude": -104.78,
+    "est_population": 1197
+  },
+  "80624": {
+    "county": "Weld County",
+    "latitude": 40.45,
+    "longitude": -104.53,
+    "est_population": 1030
+  },
+  "80631": {
+    "county": "Weld County",
+    "latitude": 40.44,
+    "longitude": -104.67,
+    "est_population": 41300
+  },
+  "80632": {
+    "county": "Weld County",
+    "latitude": 40.42,
+    "longitude": -104.74,
+    "est_population": 1249
+  },
+  "80633": {
+    "county": "Weld County",
+    "latitude": 40.42,
+    "longitude": -104.74,
+    "est_population": 670
+  },
+  "80634": {
+    "county": "Weld County",
+    "latitude": 40.42,
+    "longitude": -104.74,
+    "est_population": 55040
+  },
+  "80638": {
+    "county": "Weld County",
+    "latitude": 40.42,
+    "longitude": -104.74,
+    "est_population": 0
+  },
+  "80639": {
+    "county": "Weld County",
+    "latitude": 40.42,
+    "longitude": -104.74,
+    "est_population": 7
+  },
+  "80640": {
+    "county": "Adams County",
+    "latitude": 39.92,
+    "longitude": -104.87,
+    "est_population": 12220
+  },
+  "80642": {
+    "county": "Weld County",
+    "latitude": 40.07,
+    "longitude": -104.64,
+    "est_population": 3760
+  },
+  "80643": {
+    "county": "Weld County",
+    "latitude": 40.1,
+    "longitude": -104.51,
+    "est_population": 2770
+  },
+  "80644": {
+    "county": "Weld County",
+    "latitude": 40.38,
+    "longitude": -104.56,
+    "est_population": 2990
+  },
+  "80645": {
+    "county": "Weld County",
+    "latitude": 40.34,
+    "longitude": -104.7,
+    "est_population": 3970
+  },
+  "80646": {
+    "county": "Weld County",
+    "latitude": 40.48,
+    "longitude": -104.68,
+    "est_population": 237
+  },
+  "80648": {
+    "county": "Weld County",
+    "latitude": 40.7,
+    "longitude": -104.78,
+    "est_population": 980
+  },
+  "80649": {
+    "county": "Morgan County",
+    "latitude": 40.33,
+    "longitude": -104.12,
+    "est_population": 340
+  },
+  "80650": {
+    "county": "Weld County",
+    "latitude": 40.63,
+    "longitude": -104.75,
+    "est_population": 1620
+  },
+  "80651": {
+    "county": "Weld County",
+    "latitude": 40.21,
+    "longitude": -104.82,
+    "est_population": 4330
+  },
+  "80652": {
+    "county": "Weld County",
+    "latitude": 40.17,
+    "longitude": -104.37,
+    "est_population": 610
+  },
+  "80653": {
+    "county": "Morgan County",
+    "latitude": 40.35,
+    "longitude": -103.97,
+    "est_population": 690
+  },
+  "80654": {
+    "county": "Morgan County",
+    "latitude": 40.23,
+    "longitude": -104.07,
+    "est_population": 2450
+  },
+  "80701": {
+    "county": "Morgan County",
+    "latitude": 40.26,
+    "longitude": -103.79,
+    "est_population": 15450
+  },
+  "80705": {
+    "county": "Morgan County",
+    "latitude": 40.27,
+    "longitude": -103.83,
+    "est_population": 980
+  },
+  "80720": {
+    "county": "Washington County",
+    "latitude": 40.16,
+    "longitude": -103.21,
+    "est_population": 2120
+  },
+  "80721": {
+    "county": "Phillips County",
+    "latitude": 40.68,
+    "longitude": -102.17,
+    "est_population": 176
+  },
+  "80722": {
+    "county": "Logan County",
+    "latitude": 40.55,
+    "longitude": -103.27,
+    "est_population": 360
+  },
+  "80723": {
+    "county": "Morgan County",
+    "latitude": 40.25,
+    "longitude": -103.63,
+    "est_population": 6080
+  },
+  "80726": {
+    "county": "Logan County",
+    "latitude": 40.85,
+    "longitude": -102.8,
+    "est_population": 330
+  },
+  "80727": {
+    "county": "Yuma County",
+    "latitude": 40.11,
+    "longitude": -102.48,
+    "est_population": 350
+  },
+  "80728": {
+    "county": "Logan County",
+    "latitude": 40.68,
+    "longitude": -102.84,
+    "est_population": 780
+  },
+  "80729": {
+    "county": "Weld County",
+    "latitude": 40.86,
+    "longitude": -104.22,
+    "est_population": 350
+  },
+  "80731": {
+    "county": "Phillips County",
+    "latitude": 40.64,
+    "longitude": -102.62,
+    "est_population": 1300
+  },
+  "80732": {
+    "county": "Weld County",
+    "latitude": 40.97,
+    "longitude": -104.3,
+    "est_population": 63
+  },
+  "80733": {
+    "county": "Morgan County",
+    "latitude": 40.32,
+    "longitude": -103.52,
+    "est_population": 520
+  },
+  "80734": {
+    "county": "Phillips County",
+    "latitude": 40.58,
+    "longitude": -102.3,
+    "est_population": 2910
+  },
+  "80735": {
+    "county": "Yuma County",
+    "latitude": 39.7,
+    "longitude": -102.3,
+    "est_population": 400
+  },
+  "80736": {
+    "county": "Logan County",
+    "latitude": 40.75,
+    "longitude": -103.06,
+    "est_population": 630
+  },
+  "80737": {
+    "county": "Sedgwick County",
+    "latitude": 40.98,
+    "longitude": -102.26,
+    "est_population": 1310
+  },
+  "80740": {
+    "county": "Washington County",
+    "latitude": 39.73,
+    "longitude": -103.4,
+    "est_population": 99
+  },
+  "80741": {
+    "county": "Logan County",
+    "latitude": 40.48,
+    "longitude": -103.35,
+    "est_population": 820
+  },
+  "80742": {
+    "county": "Weld County",
+    "latitude": 40.62,
+    "longitude": -103.78,
+    "est_population": 200
+  },
+  "80743": {
+    "county": "Washington County",
+    "latitude": 40.14,
+    "longitude": -102.96,
+    "est_population": 960
+  },
+  "80744": {
+    "county": "Sedgwick County",
+    "latitude": 40.87,
+    "longitude": -102.39,
+    "est_population": 390
+  },
+  "80745": {
+    "county": "Logan County",
+    "latitude": 40.9,
+    "longitude": -103.39,
+    "est_population": 127
+  },
+  "80746": {
+    "county": "Phillips County",
+    "latitude": 40.61,
+    "longitude": -102.47,
+    "est_population": 46
+  },
+  "80747": {
+    "county": "Logan County",
+    "latitude": 40.96,
+    "longitude": -103.11,
+    "est_population": 420
+  },
+  "80749": {
+    "county": "Sedgwick County",
+    "latitude": 40.93,
+    "longitude": -102.52,
+    "est_population": 270
+  },
+  "80750": {
+    "county": "Morgan County",
+    "latitude": 40.41,
+    "longitude": -103.6,
+    "est_population": 370
+  },
+  "80751": {
+    "county": "Logan County",
+    "latitude": 40.62,
+    "longitude": -103.19,
+    "est_population": 12690
+  },
+  "80754": {
+    "county": "Weld County",
+    "latitude": 40.63,
+    "longitude": -103.65,
+    "est_population": 128
+  },
+  "80755": {
+    "county": "Yuma County",
+    "latitude": 39.93,
+    "longitude": -102.28,
+    "est_population": 151
+  },
+  "80757": {
+    "county": "Washington County",
+    "latitude": 39.98,
+    "longitude": -103.58,
+    "est_population": 185
+  },
+  "80758": {
+    "county": "Yuma County",
+    "latitude": 40.07,
+    "longitude": -102.22,
+    "est_population": 3520
+  },
+  "80759": {
+    "county": "Yuma County",
+    "latitude": 40.12,
+    "longitude": -102.72,
+    "est_population": 4280
+  },
+  "80801": {
+    "county": "Washington County",
+    "latitude": 39.75,
+    "longitude": -103.22,
+    "est_population": 167
+  },
+  "80802": {
+    "county": "Cheyenne County",
+    "latitude": 38.85,
+    "longitude": -102.17,
+    "est_population": 230
+  },
+  "80804": {
+    "county": "Lincoln County",
+    "latitude": 39.28,
+    "longitude": -103.27,
+    "est_population": 260
+  },
+  "80805": {
+    "county": "Kit Carson County",
+    "latitude": 39.3,
+    "longitude": -102.42,
+    "est_population": 390
+  },
+  "80807": {
+    "county": "Kit Carson County",
+    "latitude": 39.3,
+    "longitude": -102.27,
+    "est_population": 3930
+  },
+  "80808": {
+    "county": "El Paso County",
+    "latitude": 39.03,
+    "longitude": -104.29,
+    "est_population": 5670
+  },
+  "80809": {
+    "county": "El Paso County",
+    "latitude": 38.9,
+    "longitude": -104.97,
+    "est_population": 1370
+  },
+  "80810": {
+    "county": "Cheyenne County",
+    "latitude": 38.81,
+    "longitude": -102.35,
+    "est_population": 950
+  },
+  "80812": {
+    "county": "Washington County",
+    "latitude": 39.67,
+    "longitude": -102.85,
+    "est_population": 210
+  },
+  "80813": {
+    "county": "Teller County",
+    "latitude": 38.74,
+    "longitude": -105.17,
+    "est_population": 1680
+  },
+  "80814": {
+    "county": "Teller County",
+    "latitude": 38.94,
+    "longitude": -105.16,
+    "est_population": 3670
+  },
+  "80815": {
+    "county": "Kit Carson County",
+    "latitude": 39.29,
+    "longitude": -103.06,
+    "est_population": 750
+  },
+  "80816": {
+    "county": "Teller County",
+    "latitude": 38.95,
+    "longitude": -105.29,
+    "est_population": 4330
+  },
+  "80817": {
+    "county": "El Paso County",
+    "latitude": 38.66,
+    "longitude": -104.69,
+    "est_population": 27300
+  },
+  "80818": {
+    "county": "Lincoln County",
+    "latitude": 39.27,
+    "longitude": -103.49,
+    "est_population": 320
+  },
+  "80819": {
+    "county": "El Paso County",
+    "latitude": 38.93,
+    "longitude": -105.02,
+    "est_population": 809
+  },
+  "80820": {
+    "county": "Park County",
+    "latitude": 38.75,
+    "longitude": -105.53,
+    "est_population": 590
+  },
+  "80821": {
+    "county": "Lincoln County",
+    "latitude": 39.13,
+    "longitude": -103.46,
+    "est_population": 850
+  },
+  "80822": {
+    "county": "Yuma County",
+    "latitude": 39.65,
+    "longitude": -102.68,
+    "est_population": 210
+  },
+  "80823": {
+    "county": "Lincoln County",
+    "latitude": 38.73,
+    "longitude": -103.53,
+    "est_population": 179
+  },
+  "80824": {
+    "county": "Yuma County",
+    "latitude": 39.62,
+    "longitude": -102.6,
+    "est_population": 225
+  },
+  "80825": {
+    "county": "Cheyenne County",
+    "latitude": 38.76,
+    "longitude": -102.79,
+    "est_population": 380
+  },
+  "80826": {
+    "county": "Lincoln County",
+    "latitude": 39.26,
+    "longitude": -103.68,
+    "est_population": 0
+  },
+  "80827": {
+    "county": "Park County",
+    "latitude": 38.98,
+    "longitude": -105.37,
+    "est_population": 620
+  },
+  "80828": {
+    "county": "Lincoln County",
+    "latitude": 39.26,
+    "longitude": -103.68,
+    "est_population": 2240
+  },
+  "80829": {
+    "county": "El Paso County",
+    "latitude": 38.85,
+    "longitude": -104.91,
+    "est_population": 4610
+  },
+  "80830": {
+    "county": "Elbert County",
+    "latitude": 39.11,
+    "longitude": -103.89,
+    "est_population": 190
+  },
+  "80831": {
+    "county": "El Paso County",
+    "latitude": 39.03,
+    "longitude": -104.48,
+    "est_population": 25940
+  },
+  "80832": {
+    "county": "El Paso County",
+    "latitude": 39.12,
+    "longitude": -104.16,
+    "est_population": 600
+  },
+  "80833": {
+    "county": "El Paso County",
+    "latitude": 38.84,
+    "longitude": -104.08,
+    "est_population": 560
+  },
+  "80834": {
+    "county": "Kit Carson County",
+    "latitude": 39.29,
+    "longitude": -102.86,
+    "est_population": 220
+  },
+  "80835": {
+    "county": "Elbert County",
+    "latitude": 39.14,
+    "longitude": -104.08,
+    "est_population": 830
+  },
+  "80836": {
+    "county": "Kit Carson County",
+    "latitude": 39.3,
+    "longitude": -102.6,
+    "est_population": 1050
+  },
+  "80840": {
+    "county": "El Paso County",
+    "latitude": 38.99,
+    "longitude": -104.85,
+    "est_population": 2400
+  },
+  "80841": {
+    "county": "El Paso County",
+    "latitude": 38.99,
+    "longitude": -104.85,
+    "est_population": 2019
+  },
+  "80860": {
+    "county": "Teller County",
+    "latitude": 38.7,
+    "longitude": -105.14,
+    "est_population": 465
+  },
+  "80861": {
+    "county": "Kit Carson County",
+    "latitude": 39.3,
+    "longitude": -102.74,
+    "est_population": 200
+  },
+  "80862": {
+    "county": "Cheyenne County",
+    "latitude": 38.87,
+    "longitude": -103.06,
+    "est_population": 39
+  },
+  "80863": {
+    "county": "Teller County",
+    "latitude": 38.99,
+    "longitude": -105.05,
+    "est_population": 10330
+  },
+  "80864": {
+    "county": "El Paso County",
+    "latitude": 38.84,
+    "longitude": -104.22,
+    "est_population": 1090
+  },
+  "80866": {
+    "county": "Teller County",
+    "latitude": 38.99,
+    "longitude": -105.05,
+    "est_population": 2417
+  },
+  "80901": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 1000
+  },
+  "80902": {
+    "county": "El Paso County",
+    "latitude": 38.67,
+    "longitude": -104.81,
+    "est_population": 11480
+  },
+  "80903": {
+    "county": "El Paso County",
+    "latitude": 38.83,
+    "longitude": -104.81,
+    "est_population": 10540
+  },
+  "80904": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.88,
+    "est_population": 17130
+  },
+  "80905": {
+    "county": "El Paso County",
+    "latitude": 38.82,
+    "longitude": -104.84,
+    "est_population": 14450
+  },
+  "80906": {
+    "county": "El Paso County",
+    "latitude": 38.75,
+    "longitude": -104.88,
+    "est_population": 33850
+  },
+  "80907": {
+    "county": "El Paso County",
+    "latitude": 38.88,
+    "longitude": -104.83,
+    "est_population": 23550
+  },
+  "80908": {
+    "county": "El Paso County",
+    "latitude": 39.05,
+    "longitude": -104.69,
+    "est_population": 16450
+  },
+  "80909": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 30210
+  },
+  "80910": {
+    "county": "El Paso County",
+    "latitude": 38.81,
+    "longitude": -104.77,
+    "est_population": 25220
+  },
+  "80911": {
+    "county": "El Paso County",
+    "latitude": 38.75,
+    "longitude": -104.72,
+    "est_population": 31880
+  },
+  "80912": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 0
+  },
+  "80913": {
+    "county": "El Paso County",
+    "latitude": 38.69,
+    "longitude": -104.75,
+    "est_population": 9119
+  },
+  "80914": {
+    "county": "El Paso County",
+    "latitude": 38.82,
+    "longitude": -104.7,
+    "est_population": 340
+  },
+  "80915": {
+    "county": "El Paso County",
+    "latitude": 38.85,
+    "longitude": -104.72,
+    "est_population": 20280
+  },
+  "80916": {
+    "county": "El Paso County",
+    "latitude": 38.81,
+    "longitude": -104.71,
+    "est_population": 37170
+  },
+  "80917": {
+    "county": "El Paso County",
+    "latitude": 38.89,
+    "longitude": -104.75,
+    "est_population": 26790
+  },
+  "80918": {
+    "county": "El Paso County",
+    "latitude": 38.91,
+    "longitude": -104.78,
+    "est_population": 42390
+  },
+  "80919": {
+    "county": "El Paso County",
+    "latitude": 38.93,
+    "longitude": -104.85,
+    "est_population": 27350
+  },
+  "80920": {
+    "county": "El Paso County",
+    "latitude": 38.96,
+    "longitude": -104.77,
+    "est_population": 37660
+  },
+  "80921": {
+    "county": "El Paso County",
+    "latitude": 39.02,
+    "longitude": -104.91,
+    "est_population": 21210
+  },
+  "80922": {
+    "county": "El Paso County",
+    "latitude": 38.89,
+    "longitude": -104.7,
+    "est_population": 27270
+  },
+  "80923": {
+    "county": "El Paso County",
+    "latitude": 38.93,
+    "longitude": -104.71,
+    "est_population": 28300
+  },
+  "80924": {
+    "county": "El Paso County",
+    "latitude": 38.97,
+    "longitude": -104.72,
+    "est_population": 8570
+  },
+  "80925": {
+    "county": "El Paso County",
+    "latitude": 38.76,
+    "longitude": -104.66,
+    "est_population": 10160
+  },
+  "80926": {
+    "county": "El Paso County",
+    "latitude": 38.63,
+    "longitude": -104.9,
+    "est_population": 1240
+  },
+  "80927": {
+    "county": "El Paso County",
+    "latitude": 38.92,
+    "longitude": -104.67,
+    "est_population": 2970
+  },
+  "80928": {
+    "county": "El Paso County",
+    "latitude": 38.63,
+    "longitude": -104.4,
+    "est_population": 910
+  },
+  "80929": {
+    "county": "El Paso County",
+    "latitude": 38.82,
+    "longitude": -104.63,
+    "est_population": 280
+  },
+  "80930": {
+    "county": "El Paso County",
+    "latitude": 38.81,
+    "longitude": -104.5,
+    "est_population": 1590
+  },
+  "80931": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 425
+  },
+  "80932": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 509
+  },
+  "80933": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 467
+  },
+  "80934": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 387
+  },
+  "80935": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 1747
+  },
+  "80936": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 804
+  },
+  "80937": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 352
+  },
+  "80938": {
+    "county": "El Paso County",
+    "latitude": 38.9,
+    "longitude": -104.66,
+    "est_population": 0
+  },
+  "80939": {
+    "county": "El Paso County",
+    "latitude": 38.88,
+    "longitude": -104.68,
+    "est_population": 0
+  },
+  "80940": {
+    "county": "El Paso County",
+    "latitude": 38.88,
+    "longitude": -104.67,
+    "est_population": 0
+  },
+  "80941": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 0
+  },
+  "80942": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 0
+  },
+  "80943": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 0
+  },
+  "80944": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 0
+  },
+  "80945": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 0
+  },
+  "80946": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 38
+  },
+  "80947": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 0
+  },
+  "80949": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 604
+  },
+  "80950": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 0
+  },
+  "80951": {
+    "county": "El Paso County",
+    "latitude": 38.89,
+    "longitude": -104.65,
+    "est_population": 4340
+  },
+  "80960": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 503
+  },
+  "80962": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 802
+  },
+  "80970": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 797
+  },
+  "80977": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 0
+  },
+  "80995": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 0
+  },
+  "80997": {
+    "county": "El Paso County",
+    "latitude": 38.86,
+    "longitude": -104.76,
+    "est_population": 0
+  },
+  "81001": {
+    "county": "Pueblo County",
+    "latitude": 38.29,
+    "longitude": -104.54,
+    "est_population": 23640
+  },
+  "81002": {
+    "county": "Pueblo County",
+    "latitude": 38.27,
+    "longitude": -104.62,
+    "est_population": 271
+  },
+  "81003": {
+    "county": "Pueblo County",
+    "latitude": 38.27,
+    "longitude": -104.62,
+    "est_population": 9710
+  },
+  "81004": {
+    "county": "Pueblo County",
+    "latitude": 38.04,
+    "longitude": -104.71,
+    "est_population": 19010
+  },
+  "81005": {
+    "county": "Pueblo County",
+    "latitude": 38.2,
+    "longitude": -104.81,
+    "est_population": 27170
+  },
+  "81006": {
+    "county": "Pueblo County",
+    "latitude": 38.24,
+    "longitude": -104.5,
+    "est_population": 10120
+  },
+  "81007": {
+    "county": "Pueblo County",
+    "latitude": 38.36,
+    "longitude": -104.77,
+    "est_population": 28130
+  },
+  "81008": {
+    "county": "Pueblo County",
+    "latitude": 38.44,
+    "longitude": -104.62,
+    "est_population": 9820
+  },
+  "81009": {
+    "county": "Pueblo County",
+    "latitude": 38.27,
+    "longitude": -104.62,
+    "est_population": 0
+  },
+  "81010": {
+    "county": "Pueblo County",
+    "latitude": 38.27,
+    "longitude": -104.62,
+    "est_population": 0
+  },
+  "81011": {
+    "county": "Pueblo County",
+    "latitude": 38.27,
+    "longitude": -104.62,
+    "est_population": 0
+  },
+  "81012": {
+    "county": "Pueblo County",
+    "latitude": 38.27,
+    "longitude": -104.62,
+    "est_population": 0
+  },
+  "81019": {
+    "county": "Pueblo County",
+    "latitude": 37.94,
+    "longitude": -104.84,
+    "est_population": 1992
+  },
+  "81020": {
+    "county": "Las Animas County",
+    "latitude": 37.4,
+    "longitude": -104.65,
+    "est_population": 670
+  },
+  "81021": {
+    "county": "Kiowa County",
+    "latitude": 38.33,
+    "longitude": -103.33,
+    "est_population": 0
+  },
+  "81022": {
+    "county": "Pueblo County",
+    "latitude": 38.23,
+    "longitude": -104.35,
+    "est_population": 1230
+  },
+  "81023": {
+    "county": "Pueblo County",
+    "latitude": 38.08,
+    "longitude": -104.98,
+    "est_population": 1100
+  },
+  "81024": {
+    "county": "Las Animas County",
+    "latitude": 37.25,
+    "longitude": -104.73,
+    "est_population": 214
+  },
+  "81025": {
+    "county": "Pueblo County",
+    "latitude": 38.25,
+    "longitude": -104.25,
+    "est_population": 760
+  },
+  "81027": {
+    "county": "Las Animas County",
+    "latitude": 37.01,
+    "longitude": -103.87,
+    "est_population": 128
+  },
+  "81029": {
+    "county": "Baca County",
+    "latitude": 37.1,
+    "longitude": -102.57,
+    "est_population": 230
+  },
+  "81030": {
+    "county": "Otero County",
+    "latitude": 38.1,
+    "longitude": -103.52,
+    "est_population": 223
+  },
+  "81033": {
+    "county": "Crowley County",
+    "latitude": 38.19,
+    "longitude": -103.86,
+    "est_population": 123
+  },
+  "81034": {
+    "county": "Crowley County",
+    "latitude": 38.19,
+    "longitude": -103.85,
+    "est_population": 0
+  },
+  "81036": {
+    "county": "Kiowa County",
+    "latitude": 38.48,
+    "longitude": -102.77,
+    "est_population": 780
+  },
+  "81038": {
+    "county": "Bent County",
+    "latitude": 38.08,
+    "longitude": -103.14,
+    "est_population": 0
+  },
+  "81039": {
+    "county": "Otero County",
+    "latitude": 38.12,
+    "longitude": -104.02,
+    "est_population": 1520
+  },
+  "81040": {
+    "county": "Huerfano County",
+    "latitude": 37.78,
+    "longitude": -105.17,
+    "est_population": 310
+  },
+  "81041": {
+    "county": "Prowers County",
+    "latitude": 38.06,
+    "longitude": -102.31,
+    "est_population": 660
+  },
+  "81043": {
+    "county": "Prowers County",
+    "latitude": 38.13,
+    "longitude": -102.22,
+    "est_population": 57
+  },
+  "81044": {
+    "county": "Bent County",
+    "latitude": 37.93,
+    "longitude": -102.95,
+    "est_population": 191
+  },
+  "81045": {
+    "county": "Kiowa County",
+    "latitude": 38.45,
+    "longitude": -103.16,
+    "est_population": 117
+  },
+  "81046": {
+    "county": "Las Animas County",
+    "latitude": 37.28,
+    "longitude": -104.38,
+    "est_population": 108
+  },
+  "81047": {
+    "county": "Prowers County",
+    "latitude": 38.05,
+    "longitude": -102.12,
+    "est_population": 1300
+  },
+  "81049": {
+    "county": "Las Animas County",
+    "latitude": 37.24,
+    "longitude": -103.35,
+    "est_population": 200
+  },
+  "81050": {
+    "county": "Otero County",
+    "latitude": 37.98,
+    "longitude": -103.54,
+    "est_population": 7910
+  },
+  "81052": {
+    "county": "Prowers County",
+    "latitude": 38.08,
+    "longitude": -102.61,
+    "est_population": 7480
+  },
+  "81054": {
+    "county": "Bent County",
+    "latitude": 38.06,
+    "longitude": -103.22,
+    "est_population": 2510
+  },
+  "81055": {
+    "county": "Huerfano County",
+    "latitude": 37.51,
+    "longitude": -105,
+    "est_population": 1140
+  },
+  "81057": {
+    "county": "Bent County",
+    "latitude": 38.12,
+    "longitude": -102.88,
+    "est_population": 380
+  },
+  "81058": {
+    "county": "Otero County",
+    "latitude": 38.1,
+    "longitude": -103.86,
+    "est_population": 750
+  },
+  "81059": {
+    "county": "Las Animas County",
+    "latitude": 37.34,
+    "longitude": -104.27,
+    "est_population": 164
+  },
+  "81062": {
+    "county": "Crowley County",
+    "latitude": 38.16,
+    "longitude": -103.94,
+    "est_population": 600
+  },
+  "81063": {
+    "county": "Crowley County",
+    "latitude": 38.22,
+    "longitude": -103.75,
+    "est_population": 1220
+  },
+  "81064": {
+    "county": "Baca County",
+    "latitude": 37.22,
+    "longitude": -103,
+    "est_population": 170
+  },
+  "81067": {
+    "county": "Otero County",
+    "latitude": 38.04,
+    "longitude": -103.72,
+    "est_population": 4440
+  },
+  "81069": {
+    "county": "Pueblo County",
+    "latitude": 37.92,
+    "longitude": -104.93,
+    "est_population": 1660
+  },
+  "81071": {
+    "county": "Kiowa County",
+    "latitude": 38.46,
+    "longitude": -102.29,
+    "est_population": 240
+  },
+  "81073": {
+    "county": "Baca County",
+    "latitude": 37.4,
+    "longitude": -102.61,
+    "est_population": 1460
+  },
+  "81075": {
+    "county": "",
+    "latitude": 37.29,
+    "longitude": -102.18,
+    "est_population": 0
+  },
+  "81076": {
+    "county": "Crowley County",
+    "latitude": 38.23,
+    "longitude": -103.66,
+    "est_population": 300
+  },
+  "81077": {
+    "county": "Otero County",
+    "latitude": 38.02,
+    "longitude": -103.63,
+    "est_population": 715
+  },
+  "81081": {
+    "county": "Las Animas County",
+    "latitude": 37.05,
+    "longitude": -104.03,
+    "est_population": 86
+  },
+  "81082": {
+    "county": "Las Animas County",
+    "latitude": 37.16,
+    "longitude": -104.5,
+    "est_population": 8910
+  },
+  "81084": {
+    "county": "Baca County",
+    "latitude": 37.56,
+    "longitude": -102.39,
+    "est_population": 109
+  },
+  "81087": {
+    "county": "Baca County",
+    "latitude": 37.37,
+    "longitude": -102.44,
+    "est_population": 144
+  },
+  "81089": {
+    "county": "Huerfano County",
+    "latitude": 37.62,
+    "longitude": -104.77,
+    "est_population": 3280
+  },
+  "81090": {
+    "county": "Baca County",
+    "latitude": 37.38,
+    "longitude": -102.28,
+    "est_population": 760
+  },
+  "81091": {
+    "county": "Las Animas County",
+    "latitude": 37.13,
+    "longitude": -105.01,
+    "est_population": 580
+  },
+  "81092": {
+    "county": "Prowers County",
+    "latitude": 38.15,
+    "longitude": -102.71,
+    "est_population": 720
+  },
+  "81101": {
+    "county": "Alamosa County",
+    "latitude": 37.46,
+    "longitude": -105.87,
+    "est_population": 12170
+  },
+  "81102": {
+    "county": "Alamosa County",
+    "latitude": 37.46,
+    "longitude": -105.87,
+    "est_population": 41
+  },
+  "81120": {
+    "county": "Conejos County",
+    "latitude": 37.07,
+    "longitude": -106.01,
+    "est_population": 1630
+  },
+  "81121": {
+    "county": "Archuleta County",
+    "latitude": 37.11,
+    "longitude": -107.44,
+    "est_population": 316
+  },
+  "81122": {
+    "county": "La Plata County",
+    "latitude": 37.23,
+    "longitude": -107.59,
+    "est_population": 8000
+  },
+  "81123": {
+    "county": "Costilla County",
+    "latitude": 37.43,
+    "longitude": -105.51,
+    "est_population": 590
+  },
+  "81124": {
+    "county": "Conejos County",
+    "latitude": 37.31,
+    "longitude": -106.16,
+    "est_population": 271
+  },
+  "81125": {
+    "county": "Saguache County",
+    "latitude": 37.75,
+    "longitude": -106.11,
+    "est_population": 2900
+  },
+  "81126": {
+    "county": "Costilla County",
+    "latitude": 37.17,
+    "longitude": -105.38,
+    "est_population": 120
+  },
+  "81127": {
+    "county": "Archuleta County",
+    "latitude": 37.21,
+    "longitude": -107.34,
+    "est_population": 41
+  },
+  "81128": {
+    "county": "Archuleta County",
+    "latitude": 37.03,
+    "longitude": -106.83,
+    "est_population": 144
+  },
+  "81129": {
+    "county": "Conejos County",
+    "latitude": 37.1,
+    "longitude": -106.03,
+    "est_population": 126
+  },
+  "81130": {
+    "county": "Mineral County",
+    "latitude": 37.85,
+    "longitude": -106.92,
+    "est_population": 690
+  },
+  "81131": {
+    "county": "Saguache County",
+    "latitude": 37.99,
+    "longitude": -105.69,
+    "est_population": 783
+  },
+  "81132": {
+    "county": "Rio Grande County",
+    "latitude": 37.67,
+    "longitude": -106.35,
+    "est_population": 2440
+  },
+  "81133": {
+    "county": "Costilla County",
+    "latitude": 37.43,
+    "longitude": -105.43,
+    "est_population": 890
+  },
+  "81134": {
+    "county": "Costilla County",
+    "latitude": 37,
+    "longitude": -105.53,
+    "est_population": 70
+  },
+  "81135": {
+    "county": "Rio Grande County",
+    "latitude": 37.55,
+    "longitude": -106.05,
+    "est_population": 43
+  },
+  "81136": {
+    "county": "Alamosa County",
+    "latitude": 37.74,
+    "longitude": -105.87,
+    "est_population": 190
+  },
+  "81137": {
+    "county": "San Juan County",
+    "latitude": 37.11,
+    "longitude": -107.63,
+    "est_population": 4800
+  },
+  "81138": {
+    "county": "Costilla County",
+    "latitude": 37,
+    "longitude": -105.63,
+    "est_population": 47
+  },
+  "81140": {
+    "county": "Conejos County",
+    "latitude": 37.27,
+    "longitude": -105.96,
+    "est_population": 1960
+  },
+  "81141": {
+    "county": "Conejos County",
+    "latitude": 37.17,
+    "longitude": -105.93,
+    "est_population": 1152
+  },
+  "81143": {
+    "county": "Saguache County",
+    "latitude": 38,
+    "longitude": -105.9,
+    "est_population": 470
+  },
+  "81144": {
+    "county": "Rio Grande County",
+    "latitude": 37.57,
+    "longitude": -106.14,
+    "est_population": 6280
+  },
+  "81146": {
+    "county": "Alamosa County",
+    "latitude": 37.65,
+    "longitude": -105.88,
+    "est_population": 510
+  },
+  "81147": {
+    "county": "Archuleta County",
+    "latitude": 37.24,
+    "longitude": -107.03,
+    "est_population": 10080
+  },
+  "81148": {
+    "county": "Conejos County",
+    "latitude": 37.17,
+    "longitude": -105.99,
+    "est_population": 370
+  },
+  "81149": {
+    "county": "Saguache County",
+    "latitude": 38.08,
+    "longitude": -106.14,
+    "est_population": 610
+  },
+  "81151": {
+    "county": "Conejos County",
+    "latitude": 37.25,
+    "longitude": -105.9,
+    "est_population": 1280
+  },
+  "81152": {
+    "county": "Costilla County",
+    "latitude": 37.2,
+    "longitude": -105.42,
+    "est_population": 850
+  },
+  "81153": {
+    "county": "Costilla County",
+    "latitude": 37.12,
+    "longitude": -105.36,
+    "est_population": 201
+  },
+  "81154": {
+    "county": "Rio Grande County",
+    "latitude": 37.67,
+    "longitude": -106.64,
+    "est_population": 920
+  },
+  "81155": {
+    "county": "Saguache County",
+    "latitude": 38.25,
+    "longitude": -105.95,
+    "est_population": 160
+  },
+  "81157": {
+    "county": "Archuleta County",
+    "latitude": 37.24,
+    "longitude": -107.03,
+    "est_population": 661
+  },
+  "81201": {
+    "county": "Chaffee County",
+    "latitude": 38.53,
+    "longitude": -106,
+    "est_population": 7890
+  },
+  "81210": {
+    "county": "Gunnison County",
+    "latitude": 38.67,
+    "longitude": -106.83,
+    "est_population": 230
+  },
+  "81211": {
+    "county": "Chaffee County",
+    "latitude": 38.83,
+    "longitude": -106.14,
+    "est_population": 6260
+  },
+  "81212": {
+    "county": "Fremont County",
+    "latitude": 38.44,
+    "longitude": -105.23,
+    "est_population": 20800
+  },
+  "81215": {
+    "county": "Fremont County",
+    "latitude": 38.44,
+    "longitude": -105.23,
+    "est_population": 1232
+  },
+  "81220": {
+    "county": "Gunnison County",
+    "latitude": 38.37,
+    "longitude": -107.5,
+    "est_population": 207
+  },
+  "81221": {
+    "county": "Fremont County",
+    "latitude": 38.36,
+    "longitude": -105.14,
+    "est_population": 293
+  },
+  "81222": {
+    "county": "Fremont County",
+    "latitude": 38.35,
+    "longitude": -105.83,
+    "est_population": 290
+  },
+  "81223": {
+    "county": "Fremont County",
+    "latitude": 38.37,
+    "longitude": -105.68,
+    "est_population": 1380
+  },
+  "81224": {
+    "county": "Gunnison County",
+    "latitude": 38.87,
+    "longitude": -106.98,
+    "est_population": 4320
+  },
+  "81225": {
+    "county": "Gunnison County",
+    "latitude": 38.95,
+    "longitude": -106.9,
+    "est_population": 156
+  },
+  "81226": {
+    "county": "Fremont County",
+    "latitude": 38.38,
+    "longitude": -105.11,
+    "est_population": 4620
+  },
+  "81227": {
+    "county": "Chaffee County",
+    "latitude": 38.55,
+    "longitude": -106.29,
+    "est_population": 0
+  },
+  "81228": {
+    "county": "Lake County",
+    "latitude": 39.05,
+    "longitude": -106.27,
+    "est_population": 18
+  },
+  "81230": {
+    "county": "Gunnison County",
+    "latitude": 38.54,
+    "longitude": -106.92,
+    "est_population": 7690
+  },
+  "81231": {
+    "county": "Gunnison County",
+    "latitude": 38.55,
+    "longitude": -106.92,
+    "est_population": 69
+  },
+  "81232": {
+    "county": "Fremont County",
+    "latitude": 38.29,
+    "longitude": -105.61,
+    "est_population": 85
+  },
+  "81233": {
+    "county": "Fremont County",
+    "latitude": 38.45,
+    "longitude": -105.84,
+    "est_population": 670
+  },
+  "81235": {
+    "county": "Hinsdale County",
+    "latitude": 38.07,
+    "longitude": -107.3,
+    "est_population": 640
+  },
+  "81236": {
+    "county": "Chaffee County",
+    "latitude": 38.73,
+    "longitude": -106.08,
+    "est_population": 850
+  },
+  "81237": {
+    "county": "Gunnison County",
+    "latitude": 38.6,
+    "longitude": -106.61,
+    "est_population": 56
+  },
+  "81239": {
+    "county": "Gunnison County",
+    "latitude": 38.5,
+    "longitude": -106.72,
+    "est_population": 57
+  },
+  "81240": {
+    "county": "Fremont County",
+    "latitude": 38.43,
+    "longitude": -105.01,
+    "est_population": 3650
+  },
+  "81241": {
+    "county": "Gunnison County",
+    "latitude": 38.6,
+    "longitude": -106.51,
+    "est_population": 105
+  },
+  "81242": {
+    "county": "Chaffee County",
+    "latitude": 38.51,
+    "longitude": -106.07,
+    "est_population": 680
+  },
+  "81243": {
+    "county": "Gunnison County",
+    "latitude": 38.27,
+    "longitude": -107.08,
+    "est_population": 108
+  },
+  "81244": {
+    "county": "Fremont County",
+    "latitude": 38.36,
+    "longitude": -105.16,
+    "est_population": 369
+  },
+  "81247": {
+    "county": "Gunnison County",
+    "latitude": 38.54,
+    "longitude": -106.92,
+    "est_population": 0
+  },
+  "81248": {
+    "county": "Saguache County",
+    "latitude": 38.4,
+    "longitude": -106.42,
+    "est_population": 39
+  },
+  "81251": {
+    "county": "Lake County",
+    "latitude": 39.1,
+    "longitude": -106.47,
+    "est_population": 162
+  },
+  "81252": {
+    "county": "Custer County",
+    "latitude": 38.13,
+    "longitude": -105.46,
+    "est_population": 3300
+  },
+  "81253": {
+    "county": "Custer County",
+    "latitude": 38.23,
+    "longitude": -105.08,
+    "est_population": 370
+  },
+  "81290": {
+    "county": "Fremont County",
+    "latitude": 38.38,
+    "longitude": -105.11,
+    "est_population": 0
+  },
+  "81301": {
+    "county": "La Plata County",
+    "latitude": 37.27,
+    "longitude": -107.88,
+    "est_population": 23420
+  },
+  "81302": {
+    "county": "La Plata County",
+    "latitude": 37.27,
+    "longitude": -107.88,
+    "est_population": 2877
+  },
+  "81303": {
+    "county": "La Plata County",
+    "latitude": 37.14,
+    "longitude": -107.88,
+    "est_population": 6750
+  },
+  "81320": {
+    "county": "Dolores County",
+    "latitude": 37.65,
+    "longitude": -108.82,
+    "est_population": 220
+  },
+  "81321": {
+    "county": "Montezuma County",
+    "latitude": 37.35,
+    "longitude": -108.57,
+    "est_population": 12430
+  },
+  "81323": {
+    "county": "Montezuma County",
+    "latitude": 37.47,
+    "longitude": -108.49,
+    "est_population": 3880
+  },
+  "81324": {
+    "county": "Dolores County",
+    "latitude": 37.76,
+    "longitude": -108.9,
+    "est_population": 1150
+  },
+  "81325": {
+    "county": "San Miguel County",
+    "latitude": 37.92,
+    "longitude": -108.93,
+    "est_population": 82
+  },
+  "81326": {
+    "county": "La Plata County",
+    "latitude": 37.28,
+    "longitude": -108.03,
+    "est_population": 2020
+  },
+  "81327": {
+    "county": "Montezuma County",
+    "latitude": 37.5,
+    "longitude": -108.67,
+    "est_population": 500
+  },
+  "81328": {
+    "county": "Montezuma County",
+    "latitude": 37.34,
+    "longitude": -108.29,
+    "est_population": 3350
+  },
+  "81329": {
+    "county": "La Plata County",
+    "latitude": 37.12,
+    "longitude": -108.13,
+    "est_population": 132
+  },
+  "81330": {
+    "county": "Montezuma County",
+    "latitude": 37.18,
+    "longitude": -108.49,
+    "est_population": 45
+  },
+  "81331": {
+    "county": "Montezuma County",
+    "latitude": 37.58,
+    "longitude": -108.76,
+    "est_population": 320
+  },
+  "81332": {
+    "county": "Dolores County",
+    "latitude": 37.7,
+    "longitude": -107.99,
+    "est_population": 206
+  },
+  "81334": {
+    "county": "Montezuma County",
+    "latitude": 37.2,
+    "longitude": -108.72,
+    "est_population": 688
+  },
+  "81335": {
+    "county": "Montezuma County",
+    "latitude": 37.5,
+    "longitude": -108.76,
+    "est_population": 185
+  },
+  "81401": {
+    "county": "Montrose County",
+    "latitude": 38.49,
+    "longitude": -107.87,
+    "est_population": 19590
+  },
+  "81402": {
+    "county": "Montrose County",
+    "latitude": 38.49,
+    "longitude": -107.87,
+    "est_population": 1613
+  },
+  "81403": {
+    "county": "Montrose County",
+    "latitude": 38.3,
+    "longitude": -107.9,
+    "est_population": 9570
+  },
+  "81410": {
+    "county": "Delta County",
+    "latitude": 38.8,
+    "longitude": -107.97,
+    "est_population": 1330
+  },
+  "81411": {
+    "county": "Montrose County",
+    "latitude": 38.25,
+    "longitude": -108.98,
+    "est_population": 63
+  },
+  "81413": {
+    "county": "Delta County",
+    "latitude": 38.89,
+    "longitude": -107.92,
+    "est_population": 4280
+  },
+  "81414": {
+    "county": "Delta County",
+    "latitude": 38.77,
+    "longitude": -107.98,
+    "est_population": 181
+  },
+  "81415": {
+    "county": "Delta County",
+    "latitude": 38.7,
+    "longitude": -107.6,
+    "est_population": 1230
+  },
+  "81416": {
+    "county": "Delta County",
+    "latitude": 38.74,
+    "longitude": -108.07,
+    "est_population": 11400
+  },
+  "81418": {
+    "county": "Delta County",
+    "latitude": 38.84,
+    "longitude": -107.95,
+    "est_population": 1310
+  },
+  "81419": {
+    "county": "Delta County",
+    "latitude": 38.8,
+    "longitude": -107.71,
+    "est_population": 3060
+  },
+  "81420": {
+    "county": "Delta County",
+    "latitude": 38.78,
+    "longitude": -107.77,
+    "est_population": 71
+  },
+  "81422": {
+    "county": "Montrose County",
+    "latitude": 38.21,
+    "longitude": -108.56,
+    "est_population": 380
+  },
+  "81423": {
+    "county": "San Miguel County",
+    "latitude": 38.13,
+    "longitude": -108.29,
+    "est_population": 1294
+  },
+  "81424": {
+    "county": "Montrose County",
+    "latitude": 38.26,
+    "longitude": -108.55,
+    "est_population": 980
+  },
+  "81425": {
+    "county": "Montrose County",
+    "latitude": 38.6,
+    "longitude": -107.98,
+    "est_population": 4520
+  },
+  "81426": {
+    "county": "San Miguel County",
+    "latitude": 37.87,
+    "longitude": -107.89,
+    "est_population": 148
+  },
+  "81427": {
+    "county": "Ouray County",
+    "latitude": 38.03,
+    "longitude": -107.64,
+    "est_population": 1175
+  },
+  "81428": {
+    "county": "Delta County",
+    "latitude": 38.86,
+    "longitude": -107.59,
+    "est_population": 2950
+  },
+  "81429": {
+    "county": "Montrose County",
+    "latitude": 38.37,
+    "longitude": -108.95,
+    "est_population": 102
+  },
+  "81430": {
+    "county": "San Miguel County",
+    "latitude": 38.02,
+    "longitude": -108.07,
+    "est_population": 342
+  },
+  "81431": {
+    "county": "Montrose County",
+    "latitude": 38.18,
+    "longitude": -108.42,
+    "est_population": 250
+  },
+  "81432": {
+    "county": "Ouray County",
+    "latitude": 38.15,
+    "longitude": -107.75,
+    "est_population": 2610
+  },
+  "81433": {
+    "county": "San Juan County",
+    "latitude": 37.82,
+    "longitude": -107.64,
+    "est_population": 498
+  },
+  "81434": {
+    "county": "Gunnison County",
+    "latitude": 38.92,
+    "longitude": -107.43,
+    "est_population": 119
+  },
+  "81435": {
+    "county": "San Miguel County",
+    "latitude": 37.94,
+    "longitude": -107.9,
+    "est_population": 5260
+  },
+  "81501": {
+    "county": "Mesa County",
+    "latitude": 39.08,
+    "longitude": -108.55,
+    "est_population": 15200
+  },
+  "81502": {
+    "county": "Mesa County",
+    "latitude": 39.08,
+    "longitude": -108.55,
+    "est_population": 2169
+  },
+  "81503": {
+    "county": "Mesa County",
+    "latitude": 39.03,
+    "longitude": -108.43,
+    "est_population": 13570
+  },
+  "81504": {
+    "county": "Mesa County",
+    "latitude": 39.08,
+    "longitude": -108.49,
+    "est_population": 26500
+  },
+  "81505": {
+    "county": "Mesa County",
+    "latitude": 39.26,
+    "longitude": -108.53,
+    "est_population": 9490
+  },
+  "81506": {
+    "county": "Mesa County",
+    "latitude": 39.11,
+    "longitude": -108.53,
+    "est_population": 9870
+  },
+  "81507": {
+    "county": "Mesa County",
+    "latitude": 38.99,
+    "longitude": -108.66,
+    "est_population": 14310
+  },
+  "81520": {
+    "county": "Mesa County",
+    "latitude": 39.07,
+    "longitude": -108.46,
+    "est_population": 11760
+  },
+  "81521": {
+    "county": "Mesa County",
+    "latitude": 39.15,
+    "longitude": -108.72,
+    "est_population": 14670
+  },
+  "81522": {
+    "county": "Mesa County",
+    "latitude": 38.68,
+    "longitude": -108.99,
+    "est_population": 110
+  },
+  "81523": {
+    "county": "Mesa County",
+    "latitude": 39,
+    "longitude": -108.73,
+    "est_population": 556
+  },
+  "81524": {
+    "county": "Mesa County",
+    "latitude": 39.2,
+    "longitude": -108.82,
+    "est_population": 1900
+  },
+  "81525": {
+    "county": "Mesa County",
+    "latitude": 39.22,
+    "longitude": -108.87,
+    "est_population": 770
+  },
+  "81526": {
+    "county": "Mesa County",
+    "latitude": 39.1,
+    "longitude": -108.35,
+    "est_population": 4590
+  },
+  "81527": {
+    "county": "Mesa County",
+    "latitude": 38.98,
+    "longitude": -108.43,
+    "est_population": 1770
+  },
+  "81601": {
+    "county": "Garfield County",
+    "latitude": 39.54,
+    "longitude": -107.33,
+    "est_population": 13160
+  },
+  "81602": {
+    "county": "Garfield County",
+    "latitude": 39.54,
+    "longitude": -107.33,
+    "est_population": 2258
+  },
+  "81610": {
+    "county": "Moffat County",
+    "latitude": 40.24,
+    "longitude": -109,
+    "est_population": 350
+  },
+  "81611": {
+    "county": "Pitkin County",
+    "latitude": 39.19,
+    "longitude": -106.82,
+    "est_population": 6380
+  },
+  "81612": {
+    "county": "Pitkin County",
+    "latitude": 39.13,
+    "longitude": -106.84,
+    "est_population": 4630
+  },
+  "81615": {
+    "county": "Pitkin County",
+    "latitude": 39.19,
+    "longitude": -106.93,
+    "est_population": 1692
+  },
+  "81620": {
+    "county": "Eagle County",
+    "latitude": 39.65,
+    "longitude": -106.53,
+    "est_population": 10108
+  },
+  "81621": {
+    "county": "Eagle County",
+    "latitude": 39.36,
+    "longitude": -107.02,
+    "est_population": 6360
+  },
+  "81623": {
+    "county": "Garfield County",
+    "latitude": 39.39,
+    "longitude": -107.21,
+    "est_population": 14720
+  },
+  "81624": {
+    "county": "Mesa County",
+    "latitude": 39.23,
+    "longitude": -107.95,
+    "est_population": 1000
+  },
+  "81625": {
+    "county": "Moffat County",
+    "latitude": 40.52,
+    "longitude": -107.55,
+    "est_population": 9980
+  },
+  "81626": {
+    "county": "Moffat County",
+    "latitude": 40.52,
+    "longitude": -107.55,
+    "est_population": 1653
+  },
+  "81630": {
+    "county": "Mesa County",
+    "latitude": 39.33,
+    "longitude": -108.21,
+    "est_population": 830
+  },
+  "81631": {
+    "county": "Eagle County",
+    "latitude": 39.65,
+    "longitude": -106.82,
+    "est_population": 6643
+  },
+  "81632": {
+    "county": "Eagle County",
+    "latitude": 39.65,
+    "longitude": -106.6,
+    "est_population": 8300
+  },
+  "81633": {
+    "county": "Moffat County",
+    "latitude": 40.34,
+    "longitude": -108.43,
+    "est_population": 0
+  },
+  "81635": {
+    "county": "Garfield County",
+    "latitude": 39.44,
+    "longitude": -108.05,
+    "est_population": 5500
+  },
+  "81636": {
+    "county": "Garfield County",
+    "latitude": 39.44,
+    "longitude": -108.02,
+    "est_population": 87
+  },
+  "81637": {
+    "county": "Eagle County",
+    "latitude": 39.64,
+    "longitude": -106.94,
+    "est_population": 6750
+  },
+  "81638": {
+    "county": "Moffat County",
+    "latitude": 40.37,
+    "longitude": -107.6,
+    "est_population": 132
+  },
+  "81639": {
+    "county": "Routt County",
+    "latitude": 40.48,
+    "longitude": -107.26,
+    "est_population": 1930
+  },
+  "81640": {
+    "county": "Moffat County",
+    "latitude": 40.67,
+    "longitude": -108.51,
+    "est_population": 210
+  },
+  "81641": {
+    "county": "Rio Blanco County",
+    "latitude": 40.05,
+    "longitude": -107.89,
+    "est_population": 3280
+  },
+  "81642": {
+    "county": "Pitkin County",
+    "latitude": 39.27,
+    "longitude": -106.59,
+    "est_population": 45
+  },
+  "81643": {
+    "county": "Mesa County",
+    "latitude": 39.17,
+    "longitude": -108.13,
+    "est_population": 695
+  },
+  "81645": {
+    "county": "Eagle County",
+    "latitude": 39.58,
+    "longitude": -106.42,
+    "est_population": 1097
+  },
+  "81646": {
+    "county": "Mesa County",
+    "latitude": 39.18,
+    "longitude": -108.07,
+    "est_population": 180
+  },
+  "81647": {
+    "county": "Garfield County",
+    "latitude": 39.58,
+    "longitude": -107.53,
+    "est_population": 6530
+  },
+  "81648": {
+    "county": "Rio Blanco County",
+    "latitude": 40.08,
+    "longitude": -108.77,
+    "est_population": 2380
+  },
+  "81649": {
+    "county": "Eagle County",
+    "latitude": 39.5,
+    "longitude": -106.36,
+    "est_population": 226
+  },
+  "81650": {
+    "county": "Garfield County",
+    "latitude": 39.53,
+    "longitude": -107.77,
+    "est_population": 12750
+  },
+  "81652": {
+    "county": "Garfield County",
+    "latitude": 39.54,
+    "longitude": -107.65,
+    "est_population": 5020
+  },
+  "81653": {
+    "county": "Moffat County",
+    "latitude": 40.99,
+    "longitude": -107.37,
+    "est_population": 16
+  },
+  "81654": {
+    "county": "Pitkin County",
+    "latitude": 39.33,
+    "longitude": -106.98,
+    "est_population": 1030
+  },
+  "81655": {
+    "county": "Eagle County",
+    "latitude": 39.78,
+    "longitude": -106.46,
+    "est_population": 304
+  },
+  "81656": {
+    "county": "Pitkin County",
+    "latitude": 39.28,
+    "longitude": -106.9,
+    "est_population": 419
+  },
+  "81657": {
+    "county": "Eagle County",
+    "latitude": 39.64,
+    "longitude": -106.39,
+    "est_population": 3540
+  },
+  "81658": {
+    "county": "Eagle County",
+    "latitude": 39.64,
+    "longitude": -106.39,
+    "est_population": 4276
+  }
+}
