@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <h1>FOOD OASIS</h1>
-      <FoodOasisMap location={startLocation} zoomLevel={7} />
+      <FoodOasisMap location={startLocation} zoomLevel={12} />
     </div>
   );
 }
