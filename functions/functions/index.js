@@ -9,19 +9,21 @@ exports.helloWorld = functions.https.onRequest((request, response) =>
  return response.status(200).json({data: { "test": 123 }});
 });
 
-exports.getPointScore = functions.https.onCall((data, context) => 
+exports.getPointScore = functions.https.onRequest( async (request, response) => 
 {
-	var lat = data['lat'];
-	var lng = data['lng'];
+	var lat = request.body.data['lat'];
+	var lng = request.body.data['lng'];
 
 	var options = {
 		url: "http://open.mapquestapi.com/geocoding/v1/reverse?key=qzttnJ2q62vLFGf8spd0LJDkY3ksgwa9&location="+lat+","+lng,
 		json: true
 	};
 
-	return new Promise(function (resolve, reject) {
+	var zip = await new Promise(function (resolve, reject) {
 		interwebs_request(options, function(err, resp) {
-			return resolve({text:resp.body.results[0].locations[0].postalCode})
+			return resolve(resp.body.results[0].locations[0].postalCode);
 		});
-	})
+	});
+
+	return response.status(200).json({data: { "score": zip }});
 });
