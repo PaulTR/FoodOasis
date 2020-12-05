@@ -1,0 +1,6 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+FR,0,0,0,0,1,0,0,20200920,20210109
+MT,1,1,1,1,0,0,0,20200920,20210109
+SA,0,0,0,0,0,1,0,20200920,20210109
+SU,0,0,0,0,0,0,1,20200920,20210109
+WK,1,1,1,1,1,0,0,20200920,20210109
