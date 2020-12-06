@@ -1,6 +1,9 @@
 package com.dukehack.foodoasis;
 
 import android.app.ProgressDialog;
+import android.graphics.Bitmap;
+import android.graphics.Canvas;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -14,6 +17,8 @@ import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.BitmapDescriptor;
+import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
@@ -55,6 +60,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     private ContentLoadingProgressBar loadingSpinner;
     private String areaData;
     private TileOverlay overlay;
+    private List<Marker> groceryMarkers = new ArrayList<Marker>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -111,6 +117,17 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 });
     }
 
+    private Bitmap getBitmap(int drawableRes) {
+        Drawable drawable = getResources().getDrawable(drawableRes);
+        Canvas canvas = new Canvas();
+        Bitmap bitmap = Bitmap.createBitmap(drawable.getIntrinsicWidth(), drawable.getIntrinsicHeight(), Bitmap.Config.ARGB_8888);
+        canvas.setBitmap(bitmap);
+        drawable.setBounds(0, 0, drawable.getIntrinsicWidth(), drawable.getIntrinsicHeight());
+        drawable.draw(canvas);
+
+        return bitmap;
+    }
+
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
@@ -122,6 +139,27 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 .target(denver)
                 .build();
         mMap.moveCamera(CameraUpdateFactory.newCameraPosition(position));
+
+        //Grocery Store Markers
+        DatabaseReference reference = FirebaseDatabase.getInstance().getReference("/grocery_stores");
+        reference.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot) {
+                MarkerOptions options;
+                GroceryStore store;
+                for(DataSnapshot snapshot1 : snapshot.getChildren()) {
+                    store = snapshot1.getValue(GroceryStore.class);
+                    options = new MarkerOptions().position(new LatLng(Double.valueOf(store.point_y), Double.valueOf(store.point_x))).icon(BitmapDescriptorFactory.fromBitmap(getBitmap(R.drawable.circle))).title("Yearly Sales Volume: $" + store.sales_vol);
+                    groceryMarkers.add(mMap.addMarker(options));
+                }
+            }
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        });
+
+        /* //heat map
         DatabaseReference reference = FirebaseDatabase.getInstance().getReference("/counties");
         reference.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
@@ -159,13 +197,13 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
             }
         });
-
+        */
         mMap.setOnMapLongClickListener(new GoogleMap.OnMapLongClickListener() {
             @Override
             public void onMapLongClick(LatLng latLng) {
-                mMap.clear();
                 mMap.addMarker(new MarkerOptions().position(latLng));
                 loadingSpinner.setVisibility(View.VISIBLE);
+                Log.e("Test", "lat: " + latLng.latitude + " long: " + latLng.longitude);
                 getData(latLng.latitude, latLng.longitude);
             }
         });
@@ -173,9 +211,14 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.setOnMarkerClickListener(new GoogleMap.OnMarkerClickListener() {
             @Override
             public boolean onMarkerClick(Marker marker) {
-                InfoDialog alert = InfoDialog.newInstance(areaData);
-                alert.show(getSupportFragmentManager(), "test");
-                return false;
+                if( groceryMarkers.contains(marker)) {
+                    marker.showInfoWindow();
+                    return true;
+                } else {
+                    InfoDialog alert = InfoDialog.newInstance(areaData);
+                    alert.show(getSupportFragmentManager(), "test");
+                    return false;
+                }
             }
         });
     }
