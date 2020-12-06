@@ -1,15 +1,15 @@
 const functions = require('firebase-functions');
 const interwebs_request = require('request');
+const admin = require('firebase-admin');
 
-// exports.helloWorld = functions.https.onRequest((request, response) => 
+admin.initializeApp(functions.config().firebase);
+
 exports.helloWorld = functions.https.onRequest((request, response) => 
 {
- //var inputtext = request.body.data.text;
- 
- return response.status(200).json({data: { "test": 123 }});
+	return response.status(200).json({data: { "test": 123 }});
 });
 
-exports.getPointScore = functions.https.onRequest( async (request, response) => 
+exports.getLocationInfo = functions.https.onRequest( async (request, response) => 
 {
 	var lat = request.body.data['lat'];
 	var lng = request.body.data['lng'];
@@ -25,5 +25,12 @@ exports.getPointScore = functions.https.onRequest( async (request, response) =>
 		});
 	});
 
-	return response.status(200).json({data: { "score": zip }});
+	var zipData = null;
+	await admin.database().ref('zip/' + zip).once('value', async (snapshot) => {
+		zipData = snapshot.val();
+		await admin.database().ref('counties/' + snapshot.val().county).once('value', async (snapshot) => {
+			return response.status(200).json({data: {zipcode: zip, countyInfo: snapshot.val(), zipInfo: zipData}});
+		});
+	});
+
 });
