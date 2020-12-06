@@ -144,25 +144,24 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.moveCamera(CameraUpdateFactory.newCameraPosition(position));
 
         //Grocery Store Markers
-        DatabaseReference reference = FirebaseDatabase.getInstance().getReference("/grocery_stores");
-        reference.addListenerForSingleValueEvent(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot) {
-                MarkerOptions options;
-                GroceryStore store;
-                for(DataSnapshot snapshot1 : snapshot.getChildren()) {
-                    store = snapshot1.getValue(GroceryStore.class);
-                    options = new MarkerOptions().position(new LatLng(Double.valueOf(store.point_y), Double.valueOf(store.point_x))).icon(BitmapDescriptorFactory.fromBitmap(getBitmap(R.drawable.circle))).title("Yearly Sales Volume: $" + store.sales_vol);
-                    groceryMarkers.add(mMap.addMarker(options));
-                }
-            }
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
-            }
-        });
-
-        /* //heat map
+//        DatabaseReference reference = FirebaseDatabase.getInstance().getReference("/grocery_stores");
+//        reference.addListenerForSingleValueEvent(new ValueEventListener() {
+//            @Override
+//            public void onDataChange(@NonNull DataSnapshot snapshot) {
+//                MarkerOptions options;
+//                GroceryStore store;
+//                for(DataSnapshot snapshot1 : snapshot.getChildren()) {
+//                    store = snapshot1.getValue(GroceryStore.class);
+//                    options = new MarkerOptions().position(new LatLng(Double.valueOf(store.point_y), Double.valueOf(store.point_x))).icon(BitmapDescriptorFactory.fromBitmap(getBitmap(R.drawable.circle))).title("Yearly Sales Volume: $" + store.sales_vol);
+//                    groceryMarkers.add(mMap.addMarker(options));
+//                }
+//            }
+//            @Override
+//            public void onCancelled(@NonNull DatabaseError error) {
+//
+//            }
+//        });
+        //heat map
         DatabaseReference reference = FirebaseDatabase.getInstance().getReference("/counties");
         reference.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
@@ -200,7 +199,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
             }
         });
-        */
+
         mMap.setOnMapLongClickListener(new GoogleMap.OnMapLongClickListener() {
             @Override
             public void onMapLongClick(LatLng latLng) {
