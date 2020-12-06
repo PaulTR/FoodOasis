@@ -18,20 +18,34 @@ import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
+import com.google.android.gms.maps.model.TileOverlay;
+import com.google.android.gms.maps.model.TileOverlayOptions;
 import com.google.android.gms.tasks.Continuation;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
+import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
+import com.google.firebase.firestore.QueryDocumentSnapshot;
+import com.google.firebase.firestore.QuerySnapshot;
 import com.google.firebase.functions.FirebaseFunctions;
 import com.google.firebase.functions.HttpsCallableResult;
 import com.google.gson.Gson;
+import com.google.maps.android.heatmaps.HeatmapTileProvider;
+import com.google.maps.android.heatmaps.WeightedLatLng;
 
 import org.json.JSONObject;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
@@ -40,6 +54,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     private FirebaseAuth mAuth;
     private ContentLoadingProgressBar loadingSpinner;
     private String areaData;
+    private TileOverlay overlay;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -107,6 +122,43 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 .target(denver)
                 .build();
         mMap.moveCamera(CameraUpdateFactory.newCameraPosition(position));
+        DatabaseReference reference = FirebaseDatabase.getInstance().getReference("/counties");
+        reference.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot) {
+                final Map<String, Double> income = new HashMap<>();
+
+                for(DataSnapshot snapshot1 : snapshot.getChildren()) {
+                    income.put(snapshot.getKey(), snapshot1.getValue(County.class).per_capita_income/100000);
+                    Log.e("Test", "income: " + income.get(snapshot.getKey()));
+                }
+
+                FirebaseFirestore.getInstance().collection("bus_stop").get().addOnCompleteListener(new OnCompleteListener<QuerySnapshot>() {
+                    @Override
+                    public void onComplete(@NonNull Task<QuerySnapshot> task) {
+                        if (task.isSuccessful()) {
+                            List<WeightedLatLng> list = new ArrayList<>();
+                            for (QueryDocumentSnapshot document : task.getResult()) {
+                                list.add(new WeightedLatLng(new LatLng(document.getDouble("lat"), document.getDouble("lng")), income.containsKey(document.getString("county")) ? income.get(document.getString("county")): 1 ));
+                            }
+
+                    HeatmapTileProvider provider = new HeatmapTileProvider.Builder()
+                            .opacity(0.6)
+                            .weightedData(list)
+                            .build();
+
+                    overlay = mMap.addTileOverlay(new TileOverlayOptions().tileProvider(provider));
+                        }
+                    }
+                });
+
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        });
 
         mMap.setOnMapLongClickListener(new GoogleMap.OnMapLongClickListener() {
             @Override

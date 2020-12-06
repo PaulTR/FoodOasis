@@ -3,11 +3,47 @@
     xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    android:background="@android:color/white">
-
+    android:background="@android:color/white"
+    android:padding="12dp">
+    <!--
+    {zipcode=80220,
+    closest_stop_distance_miles=0.2617848502494964,
+    bus_stop={zip=80220, distance_from_street=125, lng=-104.922242, city=Denver, county=Denver County, stop_name=6th Ave & Holly St, stopname_uid=6th Ave & Holly St (Stop No. 11554),
+    on_street=E 6th Av S, routes=6, at_street=Holly St, corner=SE, lat=39.725292, direction=E},
+    zipInfo={latitude=39.73, county=Denver County, est_population=33250, longitude=-104.92},
+    countyInfo={total_income=46612315000, per_capita_income=67256, medium_household_income=61038, population=693060}}
+    -->
     <TextView
-        android:id="@+id/textview"
+        android:id="@+id/zipcode_county"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        style="@style/DialogText"/>
+    <TextView
+        android:id="@+id/zip_pop"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="test"/>
+        style="@style/DialogText"/>
+    <TextView
+        android:id="@+id/county_per_capita_income"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/DialogText"/>
+    <TextView
+        android:id="@+id/county_medium_household_income"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/DialogText"/>
+
+    <TextView
+        android:id="@+id/nearest_bus_stop_distance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/DialogText"/>
+    <TextView
+        android:id="@+id/nearest_bus_stop_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/DialogText"/>
 </LinearLayout>

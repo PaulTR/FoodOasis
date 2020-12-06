@@ -40,23 +40,28 @@ public class InfoDialog extends DialogFragment {
             LayoutInflater inflater = getActivity().getLayoutInflater();
             View view = inflater.inflate(R.layout.alert_layout, null);
 
-            TextView mTextView = (TextView) view.findViewById(R.id.textview);
-            /*
-            {zipcode=80220,
-            closest_stop_distance_miles=0.2617848502494964,
-            bus_stop={zip=80220, distance_from_street=125, lng=-104.922242, city=Denver, county=Denver County, stop_name=6th Ave & Holly St, stopname_uid=6th Ave & Holly St (Stop No. 11554),
-                on_street=E 6th Av S, routes=6, at_street=Holly St, corner=SE, lat=39.725292, direction=E},
-            zipInfo={latitude=39.73, county=Denver County, est_population=33250, longitude=-104.92},
-            countyInfo={total_income=46612315000, per_capita_income=67256, medium_household_income=61038, population=693060}}
-             */
-            mTextView.setText(jsonObject.getJSONObject("bus_stop").getString("corner"));
-            setCancelable(true);
+            TextView mTextView = (TextView) view.findViewById(R.id.zipcode_county);
+            mTextView.setText(jsonObject.getString("zipcode") + " " + jsonObject.getJSONObject("zipInfo").getString("county"));
 
+            mTextView = (TextView) view.findViewById(R.id.zip_pop);
+            mTextView.setText("Zip Population: " + jsonObject.getJSONObject("zipInfo").getString("est_population"));
+
+            mTextView = (TextView) view.findViewById(R.id.county_per_capita_income);
+            mTextView.setText("County Per Capita Income: $" + jsonObject.getJSONObject("countyInfo").getString("per_capita_income"));
+
+            mTextView = (TextView) view.findViewById(R.id.county_medium_household_income);
+            mTextView.setText("County Medium Household Income: $" + jsonObject.getJSONObject("countyInfo").getString("medium_household_income"));
+
+            mTextView = (TextView) view.findViewById(R.id.nearest_bus_stop_distance);
+            mTextView.setText("Distance to Nearest Bus Stop: " + jsonObject.getString("closest_stop_distance_miles").substring(0, 4) + " miles");
+
+            mTextView = (TextView) view.findViewById(R.id.nearest_bus_stop_location);
+            JSONObject bus_stop = jsonObject.getJSONObject("bus_stop");
+            mTextView.setText("Nearest Stop: " + bus_stop.getString("corner") + " corner of " + bus_stop.getString("stop_name"));
+
+            setCancelable(true);
             builder.setView(view);
             Dialog dialog = builder.create();
-
-//            dialog.getWindow().setBackgroundDrawable(
-//                    new ColorDrawable(Color.TRANSPARENT));
 
             return dialog;
         } catch (JSONException e) {
