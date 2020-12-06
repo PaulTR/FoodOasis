@@ -92,7 +92,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         data.put("lat", lat);
         data.put("lng", lng);
 
-        FirebaseFunctions.getInstance().getHttpsCallable("getPointScore")
+        FirebaseFunctions.getInstance().getHttpsCallable("androidEndpoint")
                 .call(data)
                 .continueWith(new Continuation<HttpsCallableResult, String>() {
                     @Override
@@ -144,61 +144,63 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.moveCamera(CameraUpdateFactory.newCameraPosition(position));
 
         //Grocery Store Markers
-//        DatabaseReference reference = FirebaseDatabase.getInstance().getReference("/grocery_stores");
-//        reference.addListenerForSingleValueEvent(new ValueEventListener() {
-//            @Override
-//            public void onDataChange(@NonNull DataSnapshot snapshot) {
-//                MarkerOptions options;
-//                GroceryStore store;
-//                for(DataSnapshot snapshot1 : snapshot.getChildren()) {
-//                    store = snapshot1.getValue(GroceryStore.class);
-//                    options = new MarkerOptions().position(new LatLng(Double.valueOf(store.point_y), Double.valueOf(store.point_x))).icon(BitmapDescriptorFactory.fromBitmap(getBitmap(R.drawable.circle))).title("Yearly Sales Volume: $" + store.sales_vol);
-//                    groceryMarkers.add(mMap.addMarker(options));
-//                }
-//            }
-//            @Override
-//            public void onCancelled(@NonNull DatabaseError error) {
-//
-//            }
-//        });
-        //heat map
-        DatabaseReference reference = FirebaseDatabase.getInstance().getReference("/counties");
+        DatabaseReference reference = FirebaseDatabase.getInstance().getReference("/grocery_stores");
         reference.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
-                final Map<String, Double> income = new HashMap<>();
-
+                MarkerOptions options;
+                GroceryStore store;
                 for(DataSnapshot snapshot1 : snapshot.getChildren()) {
-                    income.put(snapshot.getKey(), snapshot1.getValue(County.class).per_capita_income/100000);
-                    Log.e("Test", "income: " + income.get(snapshot.getKey()));
+                    store = snapshot1.getValue(GroceryStore.class);
+                    options = new MarkerOptions().position(new LatLng(Double.valueOf(store.point_y), Double.valueOf(store.point_x))).icon(BitmapDescriptorFactory.fromBitmap(getBitmap(R.drawable.circle))).title("Yearly Sales Volume: $" + store.sales_vol);
+                    groceryMarkers.add(mMap.addMarker(options));
                 }
-
-                FirebaseFirestore.getInstance().collection("bus_stop").get().addOnCompleteListener(new OnCompleteListener<QuerySnapshot>() {
-                    @Override
-                    public void onComplete(@NonNull Task<QuerySnapshot> task) {
-                        if (task.isSuccessful()) {
-                            List<WeightedLatLng> list = new ArrayList<>();
-                            for (QueryDocumentSnapshot document : task.getResult()) {
-                                list.add(new WeightedLatLng(new LatLng(document.getDouble("lat"), document.getDouble("lng")), income.containsKey(document.getString("county")) ? income.get(document.getString("county")): 1 ));
-                            }
-
-                    HeatmapTileProvider provider = new HeatmapTileProvider.Builder()
-                            .opacity(0.6)
-                            .weightedData(list)
-                            .build();
-
-                    overlay = mMap.addTileOverlay(new TileOverlayOptions().tileProvider(provider));
-                        }
-                    }
-                });
-
             }
-
             @Override
             public void onCancelled(@NonNull DatabaseError error) {
 
             }
         });
+
+
+        //heat map
+//        DatabaseReference reference = FirebaseDatabase.getInstance().getReference("/counties");
+//        reference.addListenerForSingleValueEvent(new ValueEventListener() {
+//            @Override
+//            public void onDataChange(@NonNull DataSnapshot snapshot) {
+//                final Map<String, Double> income = new HashMap<>();
+//
+//                for(DataSnapshot snapshot1 : snapshot.getChildren()) {
+//                    income.put(snapshot.getKey(), snapshot1.getValue(County.class).per_capita_income/100000);
+//                    Log.e("Test", "income: " + income.get(snapshot.getKey()));
+//                }
+//
+//                FirebaseFirestore.getInstance().collection("bus_stop").get().addOnCompleteListener(new OnCompleteListener<QuerySnapshot>() {
+//                    @Override
+//                    public void onComplete(@NonNull Task<QuerySnapshot> task) {
+//                        if (task.isSuccessful()) {
+//                            List<WeightedLatLng> list = new ArrayList<>();
+//                            for (QueryDocumentSnapshot document : task.getResult()) {
+//                                list.add(new WeightedLatLng(new LatLng(document.getDouble("lat"), document.getDouble("lng")), income.containsKey(document.getString("county")) ? income.get(document.getString("county")): 1 ));
+//                            }
+//
+//                    HeatmapTileProvider provider = new HeatmapTileProvider.Builder()
+//                            .opacity(0.6)
+//                            .weightedData(list)
+//                            .build();
+//
+//                    overlay = mMap.addTileOverlay(new TileOverlayOptions().tileProvider(provider));
+//                        }
+//                    }
+//                });
+//
+//            }
+//
+//            @Override
+//            public void onCancelled(@NonNull DatabaseError error) {
+//
+//            }
+//        });
 
         mMap.setOnMapLongClickListener(new GoogleMap.OnMapLongClickListener() {
             @Override

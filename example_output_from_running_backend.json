@@ -1,0 +1,27 @@
+{
+	zipcode = 80120, closest_stop_distance_miles = 0.1508929742895616, bus_stop = {
+		zip = 80120,
+		distance_from_street = 125,
+		lng = -104.995536,
+		city = Littleton,
+		county = Littleton County,
+		stop_name = W Littleton Blvd & S Fox St,
+		stopname_uid = W Littleton Blvd & S Fox St(Stop No.15008),
+		on_street = W Littleton Blvd,
+		routes = 66,
+		corner = NW,
+		at_street = S Fox St,
+		lat = 39.613319,
+		direction = W
+	}, zipInfo = {
+		latitude = 39.59,
+		county = Arapahoe County,
+		est_population = 27340,
+		longitude = -105.01
+	}, countyInfo = {
+		total_income = 34689868000,
+		per_capita_income = 54452,
+		medium_household_income = 70866,
+		population = 637068
+	}
+}
