@@ -46,6 +46,7 @@ exports.getLocationInfo = functions.https.onRequest( async (request, response) =
 					}
 					console.log(documentSnapshot.data());
 				});
+				response.set('Access-Control-Allow-Origin', '*');
 				return response.status(200).json({data: {closest_stop_distance_miles: cur_distance*69, zipcode: zip, countyInfo: snapshot.val(), zipInfo: zipData, bus_stop: closest_stop}});
 			});
 		});
@@ -89,6 +90,7 @@ exports.getPointScore = functions.https.onRequest( async (request, response) =>
 					}
 					console.log(documentSnapshot.data());
 				});
+				response.set('Access-Control-Allow-Origin', '*');
 				return response.status(200).json({data: {closest_stop_distance_miles: cur_distance*69, zipcode: zip, countyInfo: snapshot.val(), zipInfo: zipData, bus_stop: closest_stop}});
 			});
 		});
