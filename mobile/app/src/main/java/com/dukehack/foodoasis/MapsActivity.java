@@ -108,7 +108,10 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                             Gson g = new Gson();
                             areaData = g.toJson(task.getResult().getData());
                             if( mAuth.getUid() != null ) {
-                                FirebaseFirestore.getInstance().collection("users").document(mAuth.getUid()).collection("previous_queries").add(areaData);
+                                Log.e("Test", "user found: " + mAuth.getUid());
+                                FirebaseFirestore.getInstance().collection("users").document(mAuth.getUid()).collection("previous_queries").add(task.getResult().getData());
+                            } else {
+                                Log.e("Test", "user not found");
                             }
                         }
 
